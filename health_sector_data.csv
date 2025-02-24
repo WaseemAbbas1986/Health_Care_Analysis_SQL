@@ -1,0 +1,1001 @@
+Patient_ID,Name,Age,Gender,Diagnosis,Treatment,Hospital,Doctor,Admission_Date,Discharge_Date,Bill_Amount,Insurance_Covered,City,Blood_Pressure,Heart_Rate
+1,Russell Bates,92,Other,Allergy,Lifestyle Change,HealthCare Center,Michelle Moore,2024-06-08,2024-06-26,5675.43,No,Michelleton,143/82,66
+2,Michael Watson,36,Other,Heart Disease,Lifestyle Change,City Hospital,Ernest Wong,2024-05-26,2024-05-29,8580.77,Yes,Port Annastad,144/63,107
+3,Kara Myers,92,Other,Diabetes,Surgery,Sunrise Hospital,Donna Mcdaniel,2023-04-19,2023-04-24,8674.51,No,Bethfort,141/87,85
+4,Jeffrey Hall,13,Female,Hypertension,Therapy,City Hospital,Jordan Turner MD,2024-06-28,,3665.82,No,Thomasberg,108/89,73
+5,Tara Romero,85,Female,Migraine,Therapy,St. Mary’s Clinic,Julia Morton,2023-05-27,2023-06-07,3235.97,No,North Matthew,146/87,109
+6,Jared Rios,49,Male,Heart Disease,Surgery,St. Mary’s Clinic,Keith Kennedy,2023-02-24,2023-03-01,2349.05,No,Houstonmouth,128/64,86
+7,Martin Boone,46,Female,Cancer,Observation,St. Mary’s Clinic,Aaron Jackson,2025-01-23,2025-02-11,5933.66,No,Dianamouth,149/80,79
+8,Laurie Charles,62,Other,Diabetes,Therapy,St. Mary’s Clinic,Emily Ruiz,2024-12-10,2024-12-26,7559.31,No,Jacksonstad,136/79,99
+9,Brandon Bell,41,Male,Asthma,Observation,Sunrise Hospital,Andrea Castro,2024-07-12,,3867.75,Yes,Hoovershire,160/82,62
+10,Brad Hartman,27,Female,Obesity,Medication,HealthCare Center,Oscar Fitzpatrick,2024-09-10,2024-09-28,3697.84,Yes,West Lauren,96/98,50
+11,Mrs. Courtney Nelson,10,Female,Flu,Surgery,General Hospital,Larry Rios,2023-05-26,,6183.55,No,Andersonborough,122/79,71
+12,Bryan Baker,45,Other,Flu,Therapy,HealthCare Center,Gregory Walker,2024-08-12,,144.77,No,Lesliefort,159/90,60
+13,Jeanette Haney,35,Female,Obesity,Medication,Sunrise Hospital,Gregory Massey,2023-08-12,,9045.59,No,Campbellview,103/83,97
+14,Benjamin Ramos,22,Other,Obesity,Lifestyle Change,General Hospital,Jessica Davis,2024-02-01,2024-02-12,2108.39,Yes,East Dalton,137/65,65
+15,Calvin Shea,13,Male,Flu,Therapy,Sunrise Hospital,Ronald Mercado,2024-05-27,2024-06-02,9311.16,Yes,East Dylantown,158/82,54
+16,Joshua Guerra,28,Other,Obesity,Surgery,Sunrise Hospital,William Anderson,2024-02-19,2024-03-03,3680.39,No,New Williamshire,159/95,71
+17,Roberto Alvarez,34,Female,Hypertension,Medication,Sunrise Hospital,Teresa Mullins,2024-08-19,2024-08-21,7780.23,No,Harriston,117/84,105
+18,Jennifer Stanley,75,Male,Flu,Surgery,City Hospital,Stephanie Melendez,2024-06-10,2024-06-28,4124.02,No,Millerfurt,100/60,54
+19,Corey Stone,99,Female,Cancer,Medication,HealthCare Center,Ian Weber,2023-03-04,2023-03-17,3251.15,No,North Kenneth,141/63,62
+20,Emily Benson,47,Female,Heart Disease,Surgery,General Hospital,Carly Wright,2024-02-14,2024-02-15,9949.74,No,Port Jeffreyton,129/65,103
+21,Douglas Sharp,84,Male,Allergy,Medication,HealthCare Center,Sandra Gilbert,2024-11-20,2024-12-06,7547.51,Yes,Murrayborough,105/85,93
+22,Michael Maynard,53,Other,COVID-19,Lifestyle Change,General Hospital,Teresa Hoffman,2023-08-02,2023-08-09,826.79,No,Joshuamouth,119/73,78
+23,Lisa Phelps,100,Female,Flu,Surgery,City Hospital,Brenda Dillon,2024-06-06,2024-06-23,4844.89,No,Zimmermanfort,119/91,58
+24,Michael Anderson,1,Male,Migraine,Therapy,St. Mary’s Clinic,Misty Johnson,2025-01-08,2025-01-20,4299.9,Yes,West Maryport,140/90,57
+25,Jeffrey Willis,47,Other,Heart Disease,Lifestyle Change,City Hospital,Allison Thompson,2025-01-14,2025-01-25,3072.39,No,Victorialand,151/66,103
+26,Philip Anderson,63,Female,Migraine,Medication,City Hospital,Hannah Cruz,2024-03-26,2024-04-10,4421.95,No,West Jonathan,103/65,104
+27,Julie Hall,29,Other,Flu,Surgery,General Hospital,Anthony Thompson,2023-10-09,2023-10-18,9212.07,No,South Annaberg,107/97,54
+28,Jennifer Miller,4,Female,Hypertension,Observation,City Hospital,Brandi Campbell,2023-08-07,2023-08-15,9831.62,Yes,North Robert,107/89,61
+29,Audrey Greene,83,Other,Flu,Therapy,Sunrise Hospital,Alexander Newman,2024-01-19,2024-02-01,1337.52,No,East Joannafort,154/88,64
+30,Beth Orr,40,Female,COVID-19,Medication,General Hospital,Sean Walters,2024-04-11,2024-04-28,6679.01,Yes,Stantonland,105/96,87
+31,Cory Stevenson,63,Female,Allergy,Therapy,Sunrise Hospital,Megan Gill,2024-04-21,2024-05-09,9138.21,No,Lucaston,131/97,52
+32,Timothy Cooley,77,Other,Heart Disease,Lifestyle Change,City Hospital,Shelly Wagner,2023-10-15,2023-10-23,9493.88,No,West Brandonfurt,133/86,85
+33,Jamie Levy,97,Male,Diabetes,Therapy,General Hospital,Alyssa Christian,2023-08-07,2023-08-20,6725.98,Yes,Middletonfort,137/95,92
+34,Jessica Meyer,37,Other,Flu,Therapy,General Hospital,Jamie Howard,2023-08-24,2023-09-12,7675.86,Yes,South Anthony,128/87,108
+35,Wendy Edwards,76,Female,Obesity,Lifestyle Change,HealthCare Center,Lisa Lopez,2024-06-16,2024-06-24,1520.47,No,Markmouth,114/66,93
+36,Erica Stephens,19,Male,Migraine,Medication,HealthCare Center,Johnathan Acevedo,2025-01-20,2025-01-29,7999.27,No,Jackville,129/64,101
+37,Andrew Davis,93,Female,Flu,Observation,St. Mary’s Clinic,Amanda Hawkins,2024-04-06,2024-04-13,7019.3,No,Lake Michael,102/65,90
+38,Diane Chapman,30,Female,Flu,Surgery,St. Mary’s Clinic,Christina Johnston,2025-01-24,2025-01-26,6607.55,No,Brianmouth,99/70,94
+39,Brooke Garcia,55,Female,Diabetes,Therapy,General Hospital,Sierra Cruz,2024-12-27,2025-01-05,5731.89,No,Tiffanyport,99/64,64
+40,Paul Wolfe,76,Male,Asthma,Therapy,Sunrise Hospital,Gregory Hill,2023-06-22,2023-07-08,313.41,Yes,Lopezborough,143/72,89
+41,Jonathan Pineda,75,Female,Allergy,Lifestyle Change,St. Mary’s Clinic,Billy Hernandez,2024-06-07,2024-06-18,9060.95,Yes,Ashleyton,148/92,92
+42,Jacob Miller,42,Female,Heart Disease,Medication,General Hospital,Veronica Murillo,2024-09-17,2024-09-20,4536.83,Yes,Mariafort,125/62,97
+43,Darren Lopez,2,Female,Obesity,Surgery,St. Mary’s Clinic,Christopher Martin,2023-07-25,2023-07-30,4015.94,No,Dudleymouth,152/86,89
+44,Toni Li,98,Female,Migraine,Surgery,St. Mary’s Clinic,Scott Brooks,2023-08-19,2023-08-26,4075.32,No,Mariamouth,94/98,89
+45,Molly Roy,28,Male,Obesity,Therapy,General Hospital,Brandi Soto,2024-12-03,2024-12-23,1051.7,Yes,Dennisview,131/63,78
+46,Craig Mendoza,11,Female,Asthma,Surgery,HealthCare Center,Jeremy Reyes,2024-07-17,2024-07-28,317.26,Yes,Scottfurt,125/63,101
+47,Craig George,15,Male,Asthma,Medication,City Hospital,Daryl Blake DDS,2023-03-18,2023-03-19,2681.32,No,Warnershire,104/75,78
+48,Ruth Martin,4,Female,Flu,Therapy,HealthCare Center,Bradley Peters,2023-10-13,2023-10-23,6018.77,No,South Toddmouth,98/62,71
+49,Caleb Guzman,97,Female,Asthma,Medication,HealthCare Center,Bryan Baird,2024-10-04,2024-10-17,4697.2,Yes,South Shannon,127/91,61
+50,Samuel Smith,92,Other,Obesity,Medication,HealthCare Center,Stacy Jimenez,2023-09-09,2023-09-17,5236.63,Yes,Jeffreyfurt,114/83,68
+51,Doris Williams,61,Other,Heart Disease,Observation,General Hospital,Allison Murray,2023-09-16,2023-09-28,4506.99,Yes,Carlosshire,151/60,74
+52,Edward Wright,95,Female,Diabetes,Medication,HealthCare Center,Timothy Martin,2024-01-02,2024-01-10,1537.42,No,Leehaven,90/72,82
+53,Bruce Roberts,71,Female,Heart Disease,Surgery,Sunrise Hospital,George Jones,2024-12-20,2025-01-07,6639.78,No,Mercedesview,154/79,96
+54,Kevin Butler,89,Male,COVID-19,Surgery,General Hospital,Stephanie Adams,2024-05-13,,3061.35,Yes,North Jesus,147/71,50
+55,Micheal Ho,38,Male,Hypertension,Therapy,HealthCare Center,Timothy Howell,2025-01-25,,5087.88,No,Robertchester,137/79,70
+56,Deanna Valdez,35,Male,Heart Disease,Surgery,City Hospital,William Davis,2023-08-20,2023-09-01,2119.27,No,Lake Kristen,108/94,62
+57,Caitlin Martin,14,Other,Asthma,Surgery,HealthCare Center,Justin Berry,2024-08-13,,1371.44,No,New Carriemouth,126/80,100
+58,Jessica Oneal,6,Female,Flu,Observation,HealthCare Center,Tanner Horn,2024-04-22,2024-04-23,1412.77,No,Abigailville,140/95,93
+59,Kenneth Hull,27,Other,COVID-19,Lifestyle Change,HealthCare Center,Hannah Preston,2023-07-13,2023-07-31,1238.73,Yes,West Wanda,138/70,53
+60,Zachary Porter,4,Male,Obesity,Lifestyle Change,General Hospital,Kenneth Carter,2025-01-03,2025-01-14,3215.64,No,North Robertchester,100/74,67
+61,Matthew Hart,80,Female,Migraine,Medication,General Hospital,Cole Ho,2024-09-22,2024-10-02,2189.69,Yes,Ramoston,91/72,75
+62,Eric Walters,49,Male,Cancer,Lifestyle Change,HealthCare Center,Christopher Carey,2024-11-18,2024-11-24,5425.96,Yes,East Tylerburgh,113/65,83
+63,Alexa Taylor,64,Other,COVID-19,Therapy,General Hospital,Douglas Payne,2023-06-19,2023-06-20,4254.87,No,New Sandra,98/98,88
+64,Alexis Parker,27,Male,Cancer,Surgery,HealthCare Center,Renee Roberts,2023-03-17,2023-03-22,8210.24,Yes,Jerryhaven,118/99,85
+65,Charles Thompson,65,Other,Cancer,Observation,Sunrise Hospital,Elizabeth Harris,2023-06-26,2023-07-11,9785.47,Yes,Conradmouth,115/77,87
+66,Keith Schneider,32,Female,COVID-19,Surgery,HealthCare Center,Whitney Hayes,2023-04-23,,1064.45,No,Rachaeltown,98/84,80
+67,James Diaz,54,Female,Asthma,Surgery,St. Mary’s Clinic,Sara Carlson,2023-06-22,2023-06-27,926.46,Yes,Jonathanmouth,134/65,56
+68,Tricia Pearson,92,Male,COVID-19,Medication,Sunrise Hospital,Steven Collins,2024-09-13,,3753.13,Yes,Whitefurt,145/71,74
+69,Angela Sellers,64,Other,Asthma,Medication,St. Mary’s Clinic,Samuel Stewart,2023-09-24,,9058.82,Yes,Matthewstad,108/69,102
+70,Angelica Woods,86,Male,Hypertension,Medication,City Hospital,Luke Peterson,2023-07-30,2023-08-13,6039.08,Yes,Nicolefort,125/93,92
+71,Sara Foster,3,Female,Cancer,Medication,HealthCare Center,Troy Wright,2023-10-27,2023-11-16,8721.6,No,Shawnstad,148/94,72
+72,Michelle Campbell,95,Female,Obesity,Surgery,City Hospital,Adrian Miller,2023-06-27,2023-06-30,188.24,No,New Thomasberg,156/95,58
+73,Antonio Haney,61,Male,Hypertension,Lifestyle Change,St. Mary’s Clinic,Antonio Sanders,2024-02-28,2024-03-12,7405.71,Yes,Christianton,124/68,74
+74,Brent Johnson,65,Other,Obesity,Surgery,City Hospital,Maria Reed,2023-03-07,2023-03-19,5815.39,No,Rushmouth,126/66,61
+75,Bryan Rose,56,Male,COVID-19,Surgery,HealthCare Center,Eric Johnson,2023-05-25,2023-06-13,922.7,Yes,East Christopher,99/84,92
+76,James Harvey,27,Female,Cancer,Observation,HealthCare Center,Jimmy Finley,2024-06-14,2024-06-17,7907.74,Yes,Alisonborough,120/99,50
+77,Brittany Watkins,74,Male,COVID-19,Observation,HealthCare Center,Lisa Garrett,2023-09-13,,1149.8,Yes,Lake Lisamouth,132/98,77
+78,Michelle Serrano,87,Female,Migraine,Therapy,HealthCare Center,Marc Rowe,2024-11-29,2024-12-15,1840.68,No,East Christian,93/76,102
+79,Sandy Stevens,55,Female,Migraine,Surgery,HealthCare Center,Gabriel Coffey,2023-12-29,2024-01-13,8214.86,Yes,Port Davidfurt,121/90,108
+80,Timothy Riley,63,Male,Asthma,Surgery,Sunrise Hospital,Mark Saunders,2023-07-24,2023-08-12,3448.87,No,North Brooketown,117/98,87
+81,Eric Jenkins,55,Female,Cancer,Observation,City Hospital,Ashley Anderson,2024-02-01,2024-02-15,2515.01,No,West Markport,90/92,109
+82,Terry Hamilton,52,Male,COVID-19,Lifestyle Change,HealthCare Center,Darryl King,2024-02-18,2024-03-09,6333.87,Yes,Erictown,118/62,96
+83,Kelly Bird,44,Female,Migraine,Surgery,City Hospital,Joe Guerrero,2023-02-27,2023-03-01,3987.18,No,North Joshuashire,94/84,84
+84,John Yates,3,Female,Allergy,Therapy,General Hospital,William Turner,2024-10-12,2024-10-31,3745.89,No,Port Allison,138/84,80
+85,Jerome Clark,92,Other,Obesity,Lifestyle Change,General Hospital,Michelle Garrison,2024-04-13,2024-04-19,2681.52,Yes,Erikaport,92/98,102
+86,Austin Murray,60,Female,Hypertension,Observation,HealthCare Center,Colleen Roth,2024-01-14,2024-01-20,1038.37,Yes,North Andrea,149/89,93
+87,Victor Pope,14,Female,Diabetes,Lifestyle Change,HealthCare Center,Daniel Edwards,2024-06-01,,7223.97,Yes,North Amy,111/96,79
+88,Krystal Gonzalez,96,Female,Diabetes,Medication,St. Mary’s Clinic,Erin Mcdaniel DDS,2023-11-10,,2317.96,No,Torresville,125/62,74
+89,Craig Ramirez,64,Other,Diabetes,Observation,St. Mary’s Clinic,Margaret Lloyd,2023-05-21,2023-05-23,3822.46,Yes,Baileyland,157/68,93
+90,Marvin Joseph,83,Other,Allergy,Therapy,St. Mary’s Clinic,Antonio Huynh,2023-03-10,2023-03-23,6747.54,No,North Kimberlyville,151/64,93
+91,Alicia Powell,34,Female,Allergy,Lifestyle Change,General Hospital,Mary Stewart,2025-02-15,2025-03-02,7770.8,No,South Alexander,114/82,86
+92,Amber Williams,47,Male,Flu,Medication,St. Mary’s Clinic,Roger Mcdowell,2024-01-20,2024-01-26,7516.69,No,Bowenberg,108/77,102
+93,Christopher Norris,2,Other,COVID-19,Lifestyle Change,General Hospital,Jessica Myers,2024-07-26,2024-08-08,214.56,No,Jessicaberg,110/99,54
+94,Andrea Diaz,10,Female,Heart Disease,Surgery,St. Mary’s Clinic,Matthew Fisher,2024-05-18,2024-06-01,2957.38,No,Lake Alyssaside,110/84,99
+95,Brittany Melendez,8,Female,Hypertension,Observation,Sunrise Hospital,Andrew Rivera,2024-05-07,2024-05-17,5276.24,No,Benderborough,130/85,71
+96,Jane Griffin,95,Other,Cancer,Therapy,City Hospital,Brett Bentley,2023-09-17,2023-09-27,3194.43,Yes,Ingramborough,95/71,53
+97,Justin Tate,37,Male,Heart Disease,Lifestyle Change,Sunrise Hospital,Kenneth Lara,2024-02-07,2024-02-26,3030.84,Yes,Martinezshire,125/76,55
+98,Sarah Ayala,80,Female,Allergy,Lifestyle Change,General Hospital,Susan Warren,2024-02-25,2024-03-06,8008.42,No,South Adamfort,117/72,103
+99,Tina Cline,13,Male,Diabetes,Observation,Sunrise Hospital,Debra Ramirez,2024-02-13,,3307.59,No,South Daniel,130/77,104
+100,James Hartman,46,Male,COVID-19,Observation,HealthCare Center,Mikayla Chung,2024-07-05,,8200.04,No,Smithport,91/93,52
+101,Ian Freeman MD,9,Male,Asthma,Medication,St. Mary’s Clinic,Daniel Zavala,2023-02-28,,157.66,No,West Josephburgh,120/70,87
+102,Susan Mendoza DVM,48,Male,Cancer,Surgery,Sunrise Hospital,Rose Wilson,2024-08-07,2024-08-26,6575.81,No,Matthewstad,143/100,70
+103,Trevor Wood,89,Other,Flu,Surgery,HealthCare Center,Daniel King,2024-06-07,,7773.63,Yes,South Saraport,144/69,57
+104,Peter Carpenter,91,Male,Allergy,Therapy,St. Mary’s Clinic,Cynthia Martin,2025-01-31,2025-02-02,9132.7,No,East Tonya,142/97,63
+105,Tiffany Lopez,76,Female,Cancer,Observation,St. Mary’s Clinic,Michael Pace,2023-08-03,2023-08-11,5128.44,No,Grantland,103/63,72
+106,Susan Wade,27,Female,Allergy,Surgery,Sunrise Hospital,Anthony Lopez,2024-10-20,2024-11-09,3222.44,No,Vincentfurt,145/88,65
+107,Wesley Patton,6,Male,Obesity,Observation,Sunrise Hospital,Andre Singleton,2023-08-30,2023-09-18,2785.69,Yes,Jeremiahton,91/73,50
+108,Shane Roberson,39,Male,Asthma,Medication,Sunrise Hospital,James Reese,2023-06-28,2023-07-11,1976.81,No,North Courtneymouth,143/72,82
+109,Amber Torres MD,62,Female,Migraine,Surgery,St. Mary’s Clinic,Amy Russell,2023-05-27,2023-06-02,3339.92,No,South Steven,158/72,100
+110,Kathleen Jimenez,31,Female,Flu,Therapy,Sunrise Hospital,Brian Young,2023-05-10,2023-05-21,8352.5,Yes,North Marc,151/62,64
+111,Sandra Moore,51,Female,Asthma,Surgery,HealthCare Center,Jacob Ellis,2023-07-14,2023-07-28,9835.61,No,Lake Ravenfurt,123/80,69
+112,Matthew Roberts,92,Female,Diabetes,Lifestyle Change,St. Mary’s Clinic,Lonnie Griffin,2023-10-19,,3624.62,Yes,East Tyler,91/81,85
+113,Alejandro Hernandez,76,Female,Asthma,Medication,General Hospital,Darlene Mcintyre,2024-04-05,2024-04-19,3443.76,Yes,Davisberg,150/92,67
+114,Jason Smith,12,Other,Flu,Observation,HealthCare Center,Brian Smith,2024-07-07,2024-07-14,4488.48,No,Alanburgh,102/83,63
+115,Courtney Barrett,85,Male,Cancer,Medication,Sunrise Hospital,Victoria Jones,2024-12-03,2024-12-05,2314.18,Yes,New Jimmyburgh,156/80,52
+116,Tara Barnett,57,Other,Obesity,Medication,St. Mary’s Clinic,James Arellano,2023-07-08,2023-07-24,8664.85,Yes,Danielbury,144/75,59
+117,Katelyn Goodman,93,Female,Diabetes,Observation,City Hospital,Tiffany Andrade,2023-10-14,,5594.31,Yes,North Leslieborough,125/85,110
+118,Jennifer Thompson,52,Male,Obesity,Lifestyle Change,General Hospital,Eric Parker,2024-01-22,,1743.38,Yes,North Michelle,93/88,78
+119,Kimberly Curry,45,Female,Obesity,Medication,HealthCare Center,Karen Harrell,2023-10-29,2023-11-02,2436.92,No,Adamsview,133/92,96
+120,Daniel Riley,65,Other,Flu,Observation,General Hospital,Christina Henry,2024-07-06,2024-07-07,1922.84,No,Ortizfort,145/61,79
+121,Alexis Morton,67,Female,Cancer,Observation,Sunrise Hospital,Linda Sanders,2024-07-27,2024-07-29,8161.14,No,Sarahland,99/86,108
+122,Jim Alexander,67,Male,Migraine,Observation,St. Mary’s Clinic,Michelle Johnson,2023-10-17,,8447.85,Yes,Nathanielborough,102/94,99
+123,Patricia Weeks,75,Male,Flu,Therapy,St. Mary’s Clinic,Derek Hill,2024-03-12,2024-03-21,8368.38,Yes,Anitamouth,118/94,90
+124,Christopher Parker,40,Other,Migraine,Therapy,HealthCare Center,Anne Holmes,2023-06-25,,5016.49,No,Martinezchester,109/80,93
+125,Michael Green,70,Female,Flu,Medication,St. Mary’s Clinic,Tamara Simpson,2024-10-21,2024-10-24,1933.55,Yes,New Eric,155/60,66
+126,Alyssa Spencer,64,Female,Obesity,Surgery,City Hospital,Devin Chavez,2025-02-12,2025-02-24,8675.62,No,Wileyborough,122/95,82
+127,Sylvia Smith,46,Male,Diabetes,Therapy,City Hospital,Michael Ramos,2024-01-10,2024-01-14,7145.35,Yes,West Amber,140/74,54
+128,Gina Gardner,90,Other,COVID-19,Lifestyle Change,HealthCare Center,Donna Gay,2023-09-22,,2102.17,No,Jeanbury,132/81,96
+129,Patricia Oneill,43,Female,Allergy,Lifestyle Change,HealthCare Center,Paula Turner,2024-05-20,2024-06-05,9447.69,No,Rossshire,92/70,96
+130,Mark Barrera,83,Female,Heart Disease,Lifestyle Change,St. Mary’s Clinic,Robert George,2024-11-25,2024-12-08,847.57,Yes,Kevinbury,104/60,81
+131,Kevin Gomez,54,Other,COVID-19,Surgery,City Hospital,Melissa Farrell,2024-04-03,2024-04-09,6677.81,Yes,Bryanport,93/100,105
+132,Megan Adkins,8,Other,Allergy,Lifestyle Change,St. Mary’s Clinic,Adam Alvarez,2024-02-13,2024-03-04,9979.39,Yes,South Luke,136/70,78
+133,Brandon Hernandez,56,Other,Obesity,Therapy,St. Mary’s Clinic,Mrs. Tina Wilson,2024-07-23,2024-07-28,3819.25,No,South Marvinmouth,96/60,97
+134,Kristin Brown,87,Other,Diabetes,Therapy,Sunrise Hospital,Heather Campos MD,2024-05-27,,8664.78,Yes,Christopherville,140/88,94
+135,William Marshall,77,Male,Obesity,Lifestyle Change,St. Mary’s Clinic,Steven Farley,2024-06-28,2024-07-06,3288.95,Yes,Huffborough,91/94,83
+136,John Davidson,82,Female,Cancer,Surgery,HealthCare Center,Lauren Ramsey,2024-09-08,2024-09-15,2274.49,No,Lynnton,115/84,89
+137,Daniel Hernandez,22,Male,Allergy,Lifestyle Change,HealthCare Center,Joseph Sellers,2023-02-23,2023-03-03,5473.27,No,Thompsonport,97/90,105
+138,Lisa Mcguire,98,Other,Cancer,Surgery,HealthCare Center,James Herman,2023-03-08,2023-03-16,2878.49,Yes,Port Christina,125/74,76
+139,Tammy Bean MD,91,Female,Cancer,Observation,HealthCare Center,Aaron Nelson,2023-07-06,,5349.5,No,Spencerville,118/61,75
+140,Katherine Willis,68,Other,Diabetes,Medication,Sunrise Hospital,Jennifer Meyers,2024-07-14,2024-07-31,7275.44,No,Lopezburgh,94/62,61
+141,Patricia Mendez,63,Other,COVID-19,Lifestyle Change,City Hospital,Alexa Wilson,2025-01-23,2025-01-27,8840.09,Yes,Caseyberg,156/77,61
+142,Dr. Nancy Perez,70,Female,Cancer,Observation,HealthCare Center,Billy Reynolds,2023-11-08,,4677.55,No,New Jason,101/91,84
+143,Javier Galloway,10,Male,COVID-19,Medication,City Hospital,Tammy Solis,2023-12-23,2023-12-26,1778.79,No,Port Veronicamouth,102/85,65
+144,Michael Young,74,Male,COVID-19,Surgery,City Hospital,Cassandra Jackson,2025-01-21,2025-01-25,5587.49,Yes,West Lucas,128/82,71
+145,Christopher Robinson,66,Male,Allergy,Therapy,City Hospital,Troy Lucas,2023-08-14,2023-08-20,863.81,Yes,South Susanmouth,135/80,96
+146,David Bailey,13,Female,Cancer,Medication,General Hospital,Mark Wilson,2024-01-20,2024-01-29,673.31,Yes,Port Rebecca,140/93,76
+147,Jamie Grant,15,Other,Heart Disease,Lifestyle Change,General Hospital,Thomas Barnes,2024-02-19,2024-02-22,9319.41,No,Jasonbury,128/72,62
+148,Jerry Lloyd,29,Male,Obesity,Medication,HealthCare Center,Ruth Gibbs,2024-03-12,,7993.41,No,Richardland,94/69,60
+149,Brent Allen,61,Other,Diabetes,Observation,St. Mary’s Clinic,Tyler White,2023-05-30,2023-06-13,4648.95,Yes,South Jessica,147/61,90
+150,Adrienne Evans,84,Female,Migraine,Lifestyle Change,HealthCare Center,Jacqueline Mason,2024-03-16,2024-03-31,3866.14,Yes,West Jamesport,99/67,58
+151,Tracy Powell,36,Other,Asthma,Medication,City Hospital,Jacob Grant,2023-06-21,,4246.6,No,East Sandra,134/69,62
+152,Zachary Gardner,17,Other,Obesity,Lifestyle Change,City Hospital,Dennis Williams,2024-08-09,2024-08-28,7735.99,Yes,North Stephenberg,118/78,81
+153,Joseph Montgomery,21,Other,Heart Disease,Lifestyle Change,Sunrise Hospital,Alejandro Reese,2024-02-23,2024-03-04,7826.41,Yes,Jonesfort,152/94,60
+154,Roger Miles DDS,14,Other,COVID-19,Medication,Sunrise Hospital,Gregg Johnston,2023-12-04,,5962.44,No,North Lisaland,132/73,94
+155,Mr. Christopher Jones,49,Female,Flu,Therapy,City Hospital,Renee Lewis,2023-08-11,2023-08-14,5528.81,Yes,South Michaelberg,92/63,73
+156,James Patterson,47,Female,Cancer,Therapy,St. Mary’s Clinic,James Hernandez,2024-08-17,2024-08-29,5022.9,No,Andresville,122/76,108
+157,Destiny Green,34,Other,Flu,Medication,City Hospital,Jennifer Snyder,2024-12-25,,7332.86,Yes,Randyville,131/68,94
+158,Melissa Fisher,97,Male,Migraine,Therapy,St. Mary’s Clinic,Jennifer Benton,2023-11-04,,6311.38,Yes,Port Austinview,138/86,51
+159,Daniel Walker,22,Other,Flu,Surgery,St. Mary’s Clinic,James Mills,2024-06-13,,9058.51,Yes,Lake Ian,117/92,63
+160,Kevin Brewer,76,Other,Hypertension,Medication,City Hospital,Christopher Wallace DVM,2023-05-29,2023-06-13,155.89,No,East Joyceburgh,97/87,102
+161,Mr. Frank Hendrix,32,Male,Cancer,Observation,St. Mary’s Clinic,John Bruce,2024-06-10,,6068.1,No,Marktown,145/87,53
+162,Maria Sanchez,59,Other,Hypertension,Medication,Sunrise Hospital,Peter Lee,2024-07-17,2024-07-22,6342.85,No,Reginaldton,145/63,50
+163,Nicholas Williams,67,Other,Diabetes,Medication,HealthCare Center,Christina Brooks,2023-12-23,,5437.43,No,New Tonyton,133/92,100
+164,Patricia Ward,53,Male,Allergy,Lifestyle Change,St. Mary’s Clinic,Wayne Garcia,2025-02-09,2025-02-14,1162.89,No,Milesbury,155/81,52
+165,Heather Li,27,Male,Asthma,Surgery,HealthCare Center,Jeffrey House,2023-11-09,2023-11-10,9268.42,Yes,New Ericborough,108/89,74
+166,Destiny Hobbs,95,Other,Migraine,Medication,HealthCare Center,Matthew Perez,2024-03-30,2024-04-17,2251.05,No,Barnesmouth,108/100,81
+167,Traci Ingram,35,Other,COVID-19,Therapy,City Hospital,Julia Davies,2024-03-03,,4873.97,No,Richardsonburgh,152/92,85
+168,Andrew Jackson,82,Female,Allergy,Lifestyle Change,HealthCare Center,Donald Davis,2024-08-07,2024-08-09,1360.4,Yes,Stephenton,122/95,77
+169,Randy Mayo,83,Other,Hypertension,Observation,Sunrise Hospital,Daniel Cruz,2024-08-03,2024-08-23,8139.47,No,Harrischester,160/91,57
+170,Mary Jackson,82,Other,Flu,Lifestyle Change,St. Mary’s Clinic,Charles Freeman,2023-08-12,2023-08-23,5117.82,No,Lake Nicole,159/64,110
+171,April Harvey,97,Female,Heart Disease,Observation,St. Mary’s Clinic,Timothy Dyer,2023-07-07,,1975.81,Yes,Port David,158/72,101
+172,Julie Dawson,12,Male,Flu,Medication,City Hospital,Darin Jimenez,2024-05-22,2024-05-23,9027.71,Yes,South Stephaniechester,143/95,52
+173,Katherine Snyder,80,Male,Heart Disease,Medication,City Hospital,Bruce Schmidt,2023-03-16,2023-03-21,5471.68,Yes,Brittanymouth,149/67,107
+174,Arthur Davis,4,Other,Allergy,Lifestyle Change,St. Mary’s Clinic,Brenda Lewis,2024-12-03,2024-12-10,6473.08,No,Davidmouth,138/93,93
+175,Jennifer Hill DDS,79,Other,Allergy,Lifestyle Change,HealthCare Center,Bradley Johnson,2024-07-18,2024-07-19,5368.64,Yes,New Blake,104/97,80
+176,Lynn Howell,35,Male,Migraine,Medication,St. Mary’s Clinic,Jill Ruiz,2023-11-29,2023-12-02,7439.0,No,Kathrynmouth,99/98,97
+177,Glenn Nichols,11,Other,Heart Disease,Therapy,St. Mary’s Clinic,Margaret Casey,2023-06-04,,5797.71,Yes,Joneschester,153/78,82
+178,Karen Harris,70,Female,Allergy,Medication,General Hospital,Brenda Brown,2023-04-13,,4036.3,No,Lake Leslietown,129/64,107
+179,Joseph Turner,72,Other,Flu,Medication,St. Mary’s Clinic,Christine Woods,2025-01-02,2025-01-09,9524.67,Yes,Lopezton,94/94,75
+180,Amber Black,4,Male,Migraine,Medication,General Hospital,Ashley Watkins,2023-12-30,2024-01-14,4302.66,Yes,Andreamouth,141/93,73
+181,Ronald Farley,83,Female,Migraine,Therapy,HealthCare Center,Jasmin King,2024-08-31,2024-09-14,5428.82,Yes,Scottbury,149/61,75
+182,Jeffrey Fox,27,Female,Heart Disease,Lifestyle Change,General Hospital,Barbara Navarro,2024-11-29,2024-12-09,6694.76,Yes,Ayershaven,109/88,57
+183,Cheryl Ramirez,63,Male,Flu,Observation,City Hospital,Laura Ramirez,2024-02-29,,1596.21,No,Jonesland,100/96,103
+184,Susan Blackwell,86,Male,Cancer,Observation,St. Mary’s Clinic,Angela King,2024-03-27,2024-04-09,2689.04,Yes,Clarkefort,148/60,70
+185,Joshua Miller,87,Other,Asthma,Lifestyle Change,Sunrise Hospital,Andrea Luna,2023-06-09,2023-06-26,1083.15,Yes,South Brian,153/60,51
+186,Stephanie Brown,82,Other,Heart Disease,Medication,Sunrise Hospital,Richard Crawford,2025-02-01,2025-02-11,4622.07,Yes,New Allisonshire,129/79,101
+187,Angela Evans,56,Female,Obesity,Medication,Sunrise Hospital,Shelly King,2023-05-02,2023-05-17,1897.87,Yes,East Julie,122/68,89
+188,Tonya Wagner,6,Female,Flu,Lifestyle Change,Sunrise Hospital,Brenda Johnson,2023-03-22,2023-04-08,1232.19,No,Ericville,143/62,106
+189,John Bright,74,Male,Flu,Lifestyle Change,St. Mary’s Clinic,Andrew Bates,2024-01-22,2024-02-07,8991.98,No,New Patricia,158/86,63
+190,Natasha Smith,22,Other,Obesity,Medication,City Hospital,Mark Stanley,2023-09-29,2023-10-17,9046.76,No,South Ryanberg,157/85,103
+191,Kenneth Ferguson,13,Male,Hypertension,Medication,HealthCare Center,Paul Goodwin,2024-08-16,2024-08-22,8744.29,Yes,New Victoriashire,156/84,88
+192,Brenda Nelson,85,Other,COVID-19,Medication,City Hospital,Damon Irwin,2024-09-21,2024-10-11,4082.31,Yes,Choiside,150/87,109
+193,Darlene Eaton,46,Male,Hypertension,Lifestyle Change,St. Mary’s Clinic,Anna Higgins,2023-12-13,2023-12-29,5368.01,Yes,North Rachel,145/75,70
+194,Raymond Garrett,94,Male,Cancer,Surgery,Sunrise Hospital,Amy Simmons,2024-02-29,2024-03-15,7261.61,Yes,South Amy,113/73,55
+195,Brenda Hodges,81,Male,Hypertension,Observation,HealthCare Center,Jose Leon,2023-03-21,2023-03-25,9585.33,No,Christophermouth,156/77,71
+196,Barbara Wright,14,Male,Migraine,Medication,General Hospital,Travis Coleman,2024-02-16,2024-02-29,2826.27,Yes,Brennanberg,144/61,57
+197,Caroline Joyce MD,13,Male,Migraine,Observation,Sunrise Hospital,Jacqueline Williams,2024-12-31,2025-01-06,3433.39,No,Port Deborahmouth,143/97,79
+198,Steven Riddle,83,Other,Allergy,Medication,General Hospital,Julie Hayes,2025-02-01,2025-02-08,5636.91,Yes,Lake Katherineland,128/79,97
+199,Sherry Nelson,65,Male,Diabetes,Medication,Sunrise Hospital,Nathan Vaughn,2023-08-05,2023-08-18,5762.07,No,Emilyport,109/68,63
+200,David Fox,40,Male,Migraine,Surgery,HealthCare Center,James Williams,2023-12-22,2024-01-11,2196.84,No,Amandaville,106/90,107
+201,Jerry Rosales,27,Other,Allergy,Medication,HealthCare Center,Karen Jones,2023-10-27,,1524.13,No,East Shannonmouth,91/79,58
+202,Juan Grant,45,Male,COVID-19,Observation,Sunrise Hospital,Michael Brown,2024-04-14,2024-04-25,7388.54,Yes,North Kristenberg,123/77,101
+203,Michael Johnson,87,Other,Diabetes,Surgery,Sunrise Hospital,Gabrielle Phillips,2024-05-17,2024-05-28,3757.31,No,East Denise,128/97,95
+204,Christopher Strickland,69,Male,Flu,Medication,HealthCare Center,Alicia Willis,2023-11-11,2023-11-28,1326.84,Yes,Robinsonstad,114/72,104
+205,Kenneth Moore,72,Other,Asthma,Surgery,St. Mary’s Clinic,Kevin Daniels,2024-01-05,2024-01-24,251.55,Yes,Markville,108/100,62
+206,Mrs. Jennifer Nolan,48,Other,COVID-19,Surgery,Sunrise Hospital,Joyce Brown,2023-08-17,2023-09-02,684.21,No,East Joseph,158/73,62
+207,Kelly Chambers,82,Other,Allergy,Therapy,General Hospital,William Bell,2024-06-16,2024-07-03,4640.58,Yes,Lake Nicole,133/99,86
+208,Lindsey Anderson,88,Other,Asthma,Medication,St. Mary’s Clinic,Diana Wilcox DVM,2024-02-24,2024-02-27,7056.47,No,Cunninghammouth,99/66,56
+209,Danielle Mcdaniel,71,Female,Allergy,Therapy,St. Mary’s Clinic,Anthony Mullen,2024-04-29,2024-05-09,5853.57,No,Mosston,158/67,72
+210,Robert Berry,56,Other,Allergy,Lifestyle Change,General Hospital,Lori Martin,2024-11-14,2024-12-03,220.88,Yes,Emilyfurt,155/73,81
+211,Joseph Arnold,84,Female,Flu,Therapy,HealthCare Center,Benjamin Floyd,2025-01-30,2025-02-06,5481.97,Yes,Michelleville,109/76,100
+212,Trevor Thompson,45,Male,Obesity,Therapy,General Hospital,Robin Morgan,2024-12-16,2024-12-30,3067.78,Yes,North Amy,93/88,70
+213,Yolanda Gregory,16,Male,Obesity,Lifestyle Change,General Hospital,Sandra Marshall,2024-09-21,2024-10-10,8324.78,Yes,Crawfordmouth,102/71,83
+214,Rodney Romero,59,Other,Obesity,Medication,General Hospital,Raymond Smith,2025-01-25,2025-02-09,6292.76,Yes,South Kevin,128/89,100
+215,Isaiah Coffey,72,Male,Migraine,Medication,St. Mary’s Clinic,Melissa Conley,2023-08-16,2023-09-03,1100.72,Yes,Alexamouth,124/66,67
+216,Jeffrey Collins,48,Male,Cancer,Medication,St. Mary’s Clinic,Michael Wright,2023-12-03,2023-12-15,9091.48,No,South Tammy,138/90,68
+217,Scott Mccullough,4,Female,Asthma,Therapy,General Hospital,Danielle Mathews,2024-12-27,,8671.73,Yes,West Cynthia,157/63,96
+218,Yvonne Shaw,65,Male,Asthma,Surgery,City Hospital,Mr. Rodney Baldwin,2023-12-12,,8782.82,Yes,Stacyhaven,96/72,69
+219,Michael Brooks,40,Male,Cancer,Therapy,General Hospital,Sylvia Allen,2024-11-06,2024-11-10,6122.55,Yes,Michaelside,139/67,63
+220,Chase Wagner,26,Other,Obesity,Surgery,Sunrise Hospital,Robert Cole,2024-05-29,,6469.24,No,Avilatown,139/80,97
+221,Kenneth Cannon,92,Female,Heart Disease,Surgery,Sunrise Hospital,Wayne Lucero,2025-02-14,2025-02-17,3980.22,Yes,East Karen,130/75,100
+222,Malik Jones,100,Other,Obesity,Surgery,HealthCare Center,Brad Boyer,2024-11-07,,1242.07,No,Castillochester,104/66,60
+223,Rhonda Martinez,30,Male,Cancer,Therapy,Sunrise Hospital,Diane Brooks,2025-02-01,2025-02-07,2732.77,Yes,Hendersonport,104/68,107
+224,Christopher Duran,100,Female,Flu,Therapy,City Hospital,Pamela Grimes,2024-07-25,2024-08-06,7310.36,Yes,Jamesmouth,134/98,84
+225,Amber Cook,91,Male,Diabetes,Medication,General Hospital,Nancy Morton,2024-03-28,2024-04-10,2209.27,No,Margaretchester,129/70,59
+226,Lori Bruce,62,Other,Asthma,Surgery,St. Mary’s Clinic,John Cohen,2024-10-14,2024-10-23,694.33,No,Torresport,107/87,61
+227,Kevin Cox,76,Male,Obesity,Lifestyle Change,General Hospital,Robert Morrow,2023-07-29,,5362.93,No,New Tammymouth,115/82,103
+228,Sabrina Ortiz,46,Female,Flu,Surgery,General Hospital,Michael Huang,2024-04-04,2024-04-11,3464.83,Yes,New Samuel,114/80,59
+229,Jacob Knox,71,Female,Obesity,Observation,City Hospital,Brittany Mills,2023-08-22,2023-08-27,5400.11,No,Kevinmouth,126/67,71
+230,Cory Anderson,46,Male,Allergy,Medication,City Hospital,Nicole Rocha,2024-05-30,2024-06-16,2838.06,No,Brownburgh,136/78,67
+231,Mr. Steven Roberts,83,Other,Hypertension,Therapy,General Hospital,Joseph Clark,2024-03-09,2024-03-20,2316.91,Yes,Port Donaldville,122/80,89
+232,Anthony Williams,51,Male,Allergy,Therapy,St. Mary’s Clinic,Lindsay Fletcher,2023-06-10,2023-06-27,4359.84,Yes,East Patricia,113/87,85
+233,Ashley Cox,69,Other,Migraine,Medication,Sunrise Hospital,Stephen Rosario,2024-08-02,2024-08-14,2017.77,Yes,Alexanderfurt,158/83,61
+234,Kimberly Brooks,10,Male,Heart Disease,Surgery,General Hospital,Katelyn Bennett,2023-07-27,2023-08-14,3597.29,No,South Regina,147/73,92
+235,Victoria Black,24,Male,Hypertension,Observation,St. Mary’s Clinic,Steve Smith,2023-09-01,2023-09-21,3890.63,No,New Robin,125/98,56
+236,Joseph Reese,95,Female,Cancer,Lifestyle Change,City Hospital,Lisa Turner,2023-09-06,2023-09-22,9229.88,No,Leonbury,145/89,62
+237,Nicole Blanchard,50,Male,Flu,Observation,General Hospital,Amy Lin,2024-02-17,,3685.72,Yes,Lynnhaven,157/96,63
+238,Kelly Moss,17,Female,Heart Disease,Lifestyle Change,Sunrise Hospital,Michael Cardenas,2024-08-28,2024-09-03,8613.73,No,South Lauraport,90/62,82
+239,John Harris,30,Female,Asthma,Lifestyle Change,Sunrise Hospital,Nina Eaton,2023-12-11,2023-12-15,1022.42,No,North Michelleside,126/68,100
+240,Harry Mclean MD,37,Other,Hypertension,Medication,General Hospital,Kristy Riley,2024-06-01,2024-06-08,3723.36,Yes,North Brian,160/89,75
+241,Keith Gonzalez,28,Female,Allergy,Therapy,Sunrise Hospital,Ricardo Johnson,2023-06-26,2023-07-08,4449.88,Yes,Joanneborough,131/70,103
+242,Jeffery Hawkins,62,Male,COVID-19,Surgery,City Hospital,Courtney Fuller,2024-03-26,2024-04-05,6342.91,Yes,Millerside,154/86,53
+243,Kristy Lewis,30,Male,Obesity,Medication,St. Mary’s Clinic,Haley Logan,2024-10-10,2024-10-29,2654.88,No,Obrienborough,106/77,51
+244,Joseph Henderson,53,Other,Asthma,Lifestyle Change,Sunrise Hospital,Anita Marshall,2024-08-27,2024-08-28,555.59,Yes,South Carlosberg,112/97,59
+245,Joseph Armstrong,28,Female,Cancer,Surgery,City Hospital,Aaron Graham,2023-06-20,2023-07-03,4156.27,Yes,Beardchester,149/83,67
+246,Charles Jackson,51,Other,Asthma,Surgery,City Hospital,Jordan Garcia,2023-12-09,2023-12-22,6532.95,Yes,Hamiltonport,103/96,83
+247,Steven Hale,51,Other,COVID-19,Lifestyle Change,Sunrise Hospital,Grant Morrison,2024-10-19,2024-11-07,2993.54,No,Amystad,153/93,96
+248,Melissa Carr,41,Male,Cancer,Lifestyle Change,HealthCare Center,Joe Mcmillan,2024-03-26,,2716.14,No,Englishshire,124/67,65
+249,Stephen Acosta,52,Female,Allergy,Lifestyle Change,General Hospital,David Nicholson,2025-01-04,,7546.75,Yes,Henrychester,147/71,108
+250,Michael Reed,63,Other,Migraine,Surgery,Sunrise Hospital,Kenneth Baker,2023-08-20,,6068.74,Yes,Huertashire,151/82,87
+251,Daniel Yoder,82,Female,Allergy,Surgery,Sunrise Hospital,Sharon Gilmore,2023-03-24,,2197.49,No,West Danielle,146/100,72
+252,Douglas Alexander,50,Female,Asthma,Surgery,City Hospital,John Baldwin,2024-08-14,2024-08-19,9553.9,Yes,Hayesmouth,95/61,75
+253,Benjamin Wilson,88,Other,Diabetes,Lifestyle Change,Sunrise Hospital,Kristin Davis,2023-12-25,2024-01-09,8918.22,Yes,Hendersonville,124/94,70
+254,Mary Lindsey,37,Female,Cancer,Surgery,HealthCare Center,Matthew Wilcox,2025-01-29,2025-02-04,6142.33,No,East Josemouth,131/86,94
+255,William Mitchell,43,Other,Obesity,Lifestyle Change,Sunrise Hospital,Christopher Hopkins,2023-05-25,2023-06-03,874.8,Yes,New Jasonville,114/65,95
+256,Christopher Edwards,57,Female,Flu,Lifestyle Change,General Hospital,Teresa Brady,2023-09-11,2023-09-25,9955.84,Yes,Erinshire,96/78,110
+257,Juan Thompson,93,Female,Obesity,Therapy,General Hospital,Tiffany Russo,2024-06-05,2024-06-08,7726.68,Yes,Port Sarahchester,144/74,102
+258,Michael Griffith,20,Male,COVID-19,Lifestyle Change,Sunrise Hospital,Jonathan Williams,2023-09-04,2023-09-13,8565.85,Yes,North Amy,111/72,67
+259,Christopher Rice,48,Other,Flu,Medication,St. Mary’s Clinic,Derek Miller,2023-08-16,,6264.18,Yes,Kellytown,133/92,56
+260,Andrew Davis,7,Other,Heart Disease,Medication,General Hospital,Amanda Smith,2024-05-05,,8864.6,Yes,Brownburgh,107/86,87
+261,Mrs. Anita Hodge,61,Other,Obesity,Observation,Sunrise Hospital,James Erickson,2023-05-31,2023-06-20,945.17,Yes,Williamview,112/88,69
+262,Samuel Weiss,98,Other,Cancer,Observation,Sunrise Hospital,Michael Morris,2023-07-21,2023-08-02,9263.31,No,West Julie,150/70,92
+263,Thomas Barnes,30,Other,Cancer,Therapy,HealthCare Center,Katie Tran,2023-08-08,2023-08-10,1106.36,Yes,Parrishmouth,142/72,76
+264,Amanda Gutierrez,56,Female,Allergy,Lifestyle Change,HealthCare Center,Sarah Mcconnell,2023-07-08,2023-07-13,5504.42,Yes,Knightchester,129/75,59
+265,Holly Good,55,Female,Heart Disease,Observation,Sunrise Hospital,Yolanda Horton,2023-07-05,2023-07-07,9928.59,Yes,Port Kristopher,148/68,69
+266,James Green,79,Male,Flu,Surgery,Sunrise Hospital,Jennifer Moore,2024-02-09,2024-02-29,2961.6,No,Patelberg,102/68,64
+267,Holly Davis,38,Other,Cancer,Lifestyle Change,General Hospital,Chelsea Frederick,2023-08-17,2023-08-30,184.53,Yes,Williamville,152/85,70
+268,Christopher Thompson,42,Female,Asthma,Therapy,General Hospital,Victoria Brooks,2024-09-14,2024-09-22,1662.61,No,Jessemouth,138/85,61
+269,Elizabeth Joseph,62,Female,Hypertension,Medication,City Hospital,Sarah Lucas MD,2023-10-12,2023-10-15,1001.93,Yes,East Rhondafort,119/95,79
+270,Nicole Alvarez,28,Other,Diabetes,Medication,HealthCare Center,Jeremy Perry,2024-07-20,2024-08-01,5123.27,Yes,Libury,156/90,50
+271,Susan Sawyer,15,Male,Allergy,Surgery,St. Mary’s Clinic,Jennifer Williamson,2024-08-05,,9897.18,No,North Kristyberg,92/83,58
+272,Crystal Hall,50,Other,Hypertension,Medication,General Hospital,Kathryn Knight,2023-07-13,2023-07-18,9230.29,No,Lake Samanthatown,99/80,83
+273,Jason Rosales,3,Male,Obesity,Medication,City Hospital,John Lara,2024-03-16,2024-03-27,838.3,No,Dudleybury,159/71,91
+274,Cassandra Rodriguez,67,Male,Hypertension,Medication,Sunrise Hospital,Brittany Benitez,2024-06-15,2024-06-19,3633.51,Yes,Maldonadostad,140/66,81
+275,Joseph Reyes,37,Female,Migraine,Surgery,City Hospital,Joshua Mcbride,2024-08-01,,1494.79,Yes,East Michael,120/86,56
+276,Christopher Brown,39,Male,Hypertension,Observation,General Hospital,Laura Stewart,2024-09-29,2024-10-08,457.48,Yes,Port Micheleberg,146/62,100
+277,Jordan Hines,55,Male,Asthma,Surgery,General Hospital,Jeremy Cohen,2024-06-29,2024-07-05,4877.5,No,Lake Shaun,159/69,104
+278,Mr. James Russell,41,Other,Heart Disease,Therapy,City Hospital,Kevin Evans,2023-08-24,2023-09-05,3006.23,No,Hallmouth,151/67,99
+279,Jacqueline White,26,Male,COVID-19,Lifestyle Change,General Hospital,Rebecca Garcia,2024-09-14,2024-10-01,5014.67,No,West Mikaylaton,109/81,90
+280,David Gibson,86,Female,Migraine,Surgery,City Hospital,Victor Gomez,2023-05-19,2023-06-03,1431.77,No,Whitebury,96/62,65
+281,Denise Smith,100,Female,COVID-19,Therapy,HealthCare Center,Randall Brooks,2023-06-15,2023-07-05,8328.21,No,Jorgeville,121/69,91
+282,Connor Morris,63,Female,COVID-19,Observation,HealthCare Center,Nicole Byrd,2024-07-22,2024-08-05,7105.12,Yes,Lake Chadville,101/65,94
+283,Billy Odom,51,Female,Diabetes,Therapy,General Hospital,Allen Green,2023-03-20,2023-03-27,5590.65,No,Christopherville,123/78,78
+284,Thomas Lewis,33,Other,Allergy,Therapy,St. Mary’s Clinic,Emily Davis,2023-10-29,2023-11-16,6979.02,No,South William,141/77,52
+285,Michelle Hardy,44,Other,COVID-19,Medication,St. Mary’s Clinic,Scott Cruz,2024-11-07,2024-11-11,8702.7,Yes,Perkinstown,91/89,108
+286,Nicole Mcdonald,80,Male,Asthma,Observation,Sunrise Hospital,Jesus Garcia,2024-03-25,2024-04-14,8633.3,No,Stephanieview,160/82,90
+287,Jacob Chavez,59,Male,Asthma,Surgery,City Hospital,Donna Barnes,2024-03-04,2024-03-09,2550.59,Yes,Ricestad,114/65,87
+288,Jeffery Green,64,Male,COVID-19,Observation,City Hospital,Frank Jenkins,2023-02-24,2023-03-07,2032.75,Yes,Kimberlystad,146/86,87
+289,Oscar Douglas,57,Female,Flu,Medication,Sunrise Hospital,Donald Anderson,2024-11-26,,3171.2,Yes,Lake Ashleymouth,109/91,53
+290,Andrea Glenn,2,Female,Cancer,Lifestyle Change,City Hospital,Ryan Cannon,2024-07-26,2024-08-01,7522.23,Yes,New Michaelhaven,110/81,94
+291,Stephen King,66,Female,Diabetes,Observation,Sunrise Hospital,Joshua Hernandez,2024-08-18,2024-08-27,5232.16,No,West Adam,100/90,75
+292,Jacqueline Davis,18,Male,Asthma,Surgery,General Hospital,Timothy Jones,2023-09-06,2023-09-12,8584.36,Yes,Johnhaven,99/81,83
+293,Brett Perry,77,Male,Allergy,Observation,General Hospital,Amber Calderon,2023-12-01,2023-12-17,8260.02,No,Cooperfurt,132/65,98
+294,Charles Schroeder,65,Female,Asthma,Surgery,HealthCare Center,Andrew Frost,2024-03-23,2024-04-08,5950.11,No,Molinamouth,115/99,75
+295,Tiffany Walton,52,Male,Heart Disease,Medication,HealthCare Center,Collin Johnson,2023-09-15,2023-10-05,6210.02,Yes,South Kimberlyside,129/65,82
+296,Kristi Hanson,76,Female,Hypertension,Medication,General Hospital,Michelle Grimes,2023-10-18,2023-10-19,7000.34,Yes,West Samantha,134/65,83
+297,Jenna York,73,Other,Cancer,Therapy,City Hospital,John Herrera,2023-06-16,2023-06-29,613.13,Yes,Lake Cynthia,103/68,66
+298,Julian Thompson,60,Female,Heart Disease,Surgery,City Hospital,Robert Valdez,2024-12-29,2024-12-30,5352.99,No,New Christophertown,126/82,58
+299,Carla Alvarado,18,Male,Cancer,Observation,Sunrise Hospital,Wesley Perez,2023-11-07,2023-11-21,144.97,Yes,Laurenland,125/95,95
+300,Sean Sanders,15,Other,Migraine,Surgery,City Hospital,Eric Steele,2023-04-05,2023-04-24,1741.69,Yes,Williamchester,131/76,90
+301,Megan Hensley,66,Other,COVID-19,Medication,General Hospital,Stephanie Brown,2023-12-01,2023-12-13,2453.12,Yes,North Brendan,138/75,105
+302,Cynthia Martinez,34,Female,Diabetes,Medication,City Hospital,Alexandra Horton,2024-02-27,2024-03-18,4787.69,Yes,Armstrongchester,149/74,80
+303,Mary Walters,77,Female,COVID-19,Observation,City Hospital,Erin Lewis,2024-03-16,2024-03-31,397.18,No,Jayshire,145/95,63
+304,Matthew Roy,98,Female,Asthma,Therapy,St. Mary’s Clinic,Thomas Silva,2023-11-21,2023-11-27,3890.91,No,Port Melindaport,119/72,54
+305,Janet Smith,35,Other,Heart Disease,Medication,St. Mary’s Clinic,Ryan Knight,2024-07-10,2024-07-29,5561.5,Yes,South Rebeccaview,152/78,61
+306,Micheal Dunn,56,Female,Obesity,Therapy,General Hospital,Jake Mayo,2023-09-18,2023-10-04,5322.65,No,Port Richard,137/72,71
+307,Angela Hunt,1,Other,Flu,Medication,HealthCare Center,Katherine Cunningham,2024-05-03,2024-05-13,5445.72,Yes,Markview,102/84,100
+308,Patrick Harrison,30,Male,Cancer,Observation,St. Mary’s Clinic,Rachel Pearson,2025-01-05,2025-01-13,793.46,No,Duartefurt,125/64,92
+309,Meagan Torres,28,Other,Cancer,Observation,Sunrise Hospital,Brian Thompson,2023-03-12,2023-03-28,6214.07,Yes,New Lukeport,116/65,101
+310,Linda French,95,Male,Allergy,Lifestyle Change,City Hospital,Gail Morales,2024-09-07,2024-09-08,5747.96,Yes,Josephborough,156/69,104
+311,Morgan Shepherd,77,Other,Obesity,Lifestyle Change,HealthCare Center,Michelle Dennis,2024-09-23,,2506.93,No,New Anthonychester,116/87,79
+312,Mrs. Denise Lopez,48,Female,Diabetes,Surgery,Sunrise Hospital,Austin Jones,2024-02-16,2024-02-28,7292.29,Yes,Lake Tracybury,150/90,62
+313,Karen Sloan,60,Other,Asthma,Lifestyle Change,Sunrise Hospital,Candace Jones,2024-11-03,2024-11-18,2148.77,No,East Justin,131/90,76
+314,Mrs. Katherine Vega,31,Female,Asthma,Observation,General Hospital,Jon Larson,2023-09-14,2023-09-26,6663.14,Yes,Nashborough,138/97,54
+315,Jeremy Fox,37,Other,Flu,Observation,Sunrise Hospital,Michael Norman,2023-11-14,2023-11-19,892.2,No,Gonzalesville,121/74,106
+316,Renee Webb,37,Male,Asthma,Surgery,General Hospital,Richard Chen,2023-07-08,2023-07-17,4143.77,No,Brittanystad,91/100,101
+317,Randall Finley,48,Female,COVID-19,Therapy,General Hospital,Christopher Dunn,2024-09-29,2024-10-03,9435.84,Yes,Gloriamouth,98/88,105
+318,Damon Newman,57,Male,COVID-19,Therapy,Sunrise Hospital,David Perkins,2023-06-02,2023-06-06,8515.38,No,North Charles,104/77,86
+319,Deborah Campbell,9,Other,COVID-19,Observation,City Hospital,Jennifer Joseph,2024-07-27,2024-08-06,674.48,No,North Kaitlin,140/96,59
+320,Lindsey Miller,86,Other,COVID-19,Medication,St. Mary’s Clinic,Jason Williams,2025-01-12,2025-01-13,4548.5,Yes,Knightbury,128/81,86
+321,Dennis Johnson,67,Male,Heart Disease,Surgery,HealthCare Center,Alex Fox,2024-08-24,,8423.17,No,Garciaburgh,134/67,60
+322,Jeffrey Weeks,53,Other,Flu,Lifestyle Change,HealthCare Center,Renee Sharp,2024-02-16,,6853.89,Yes,East Davidside,129/89,83
+323,Joyce Kim,74,Other,Hypertension,Medication,General Hospital,Tracy Vazquez,2024-08-17,2024-08-24,2644.93,Yes,Melissastad,111/78,107
+324,Jeffery Mcbride,40,Male,Heart Disease,Surgery,City Hospital,Ryan Horn,2025-01-05,2025-01-06,1504.43,No,Kellerhaven,101/66,68
+325,Brandon Estrada,84,Female,COVID-19,Surgery,City Hospital,William Holder,2023-03-05,2023-03-19,1308.75,No,East John,96/88,68
+326,Haley Schultz,83,Other,Diabetes,Lifestyle Change,HealthCare Center,Thomas Foster,2024-09-13,,4381.69,Yes,Alexshire,90/89,103
+327,Michelle Pacheco,51,Female,Flu,Therapy,HealthCare Center,Jason Flores,2024-10-14,2024-10-15,1279.7,No,Lawrencefurt,145/83,65
+328,Sharon Navarro,37,Female,Diabetes,Surgery,General Hospital,Dr. Lisa Kirby,2024-02-09,2024-02-16,5168.94,No,Meaganmouth,109/87,95
+329,Charles Carrillo,1,Female,Cancer,Surgery,HealthCare Center,Elizabeth Williamson,2024-12-27,2025-01-02,7577.44,No,Wolfechester,120/68,64
+330,Valerie Myers,4,Male,Cancer,Surgery,St. Mary’s Clinic,Devin Jones,2024-08-23,,4328.84,Yes,Lake James,151/74,56
+331,Warren Gallagher,49,Other,Obesity,Observation,City Hospital,Joseph Jackson,2023-08-21,2023-09-01,946.21,Yes,Sanchezland,157/70,110
+332,Albert Stone DVM,87,Other,COVID-19,Medication,St. Mary’s Clinic,Ashley Payne,2024-06-23,,6253.38,No,South Sarahfurt,103/95,67
+333,Victoria Sanchez,8,Other,Diabetes,Surgery,Sunrise Hospital,Jessica Boyer,2023-04-14,2023-04-25,5790.81,Yes,Bradyfort,160/73,55
+334,Mr. Larry Carter,63,Other,Heart Disease,Surgery,St. Mary’s Clinic,William Reed,2023-03-25,2023-04-03,3778.88,Yes,East Gregory,123/80,109
+335,Joanna Rodriguez,21,Other,Heart Disease,Lifestyle Change,General Hospital,Kristen Giles,2023-07-07,2023-07-08,9989.38,No,North Kaitlynfort,132/91,102
+336,Joshua Gordon,98,Female,Heart Disease,Medication,HealthCare Center,Michael George,2023-12-23,2024-01-10,2505.17,No,Jessicaville,147/66,99
+337,Lisa Oneill,21,Female,COVID-19,Lifestyle Change,City Hospital,Julia Drake,2023-08-22,2023-09-07,1566.76,No,Petersonmouth,91/86,65
+338,Andrea Lyons,30,Female,Flu,Therapy,St. Mary’s Clinic,Kimberly Lutz,2024-08-01,,3415.73,Yes,West Dana,107/70,64
+339,Michael Davis,45,Male,Diabetes,Observation,City Hospital,Brandy Jefferson,2023-11-11,,9788.33,Yes,Jessicafurt,129/69,95
+340,Angel Gregory,10,Male,Allergy,Observation,HealthCare Center,Shane Blackburn,2023-07-27,2023-08-14,2519.46,Yes,South Michealhaven,134/91,95
+341,Vanessa Scott,10,Other,COVID-19,Lifestyle Change,General Hospital,Morgan Malone,2023-10-17,2023-10-22,2715.97,Yes,North Allisonhaven,105/98,74
+342,Marcus Cordova,77,Other,Migraine,Lifestyle Change,City Hospital,George Hall,2024-01-13,2024-01-18,5417.15,No,West Lisa,92/83,85
+343,Beverly Hicks,60,Male,COVID-19,Therapy,St. Mary’s Clinic,Timothy Davis,2024-08-26,,9441.91,Yes,Muellerfort,143/80,96
+344,Tonya Jackson,99,Male,Asthma,Observation,General Hospital,Ashley Garza,2023-06-02,2023-06-20,4564.67,Yes,Jessicaton,105/90,101
+345,Shane Young,25,Other,Obesity,Lifestyle Change,HealthCare Center,Ernest Thompson,2023-03-26,2023-04-13,7698.87,Yes,North Jenniferland,118/74,57
+346,Ashley Sherman,93,Other,Migraine,Surgery,Sunrise Hospital,Edgar Black,2024-04-30,,9947.16,No,Florestown,107/84,76
+347,Vicki Clay,52,Other,Flu,Therapy,General Hospital,Ashlee Jensen,2024-06-19,2024-07-07,3831.92,Yes,Kiaraberg,142/73,54
+348,Danielle Davis,57,Other,Allergy,Observation,Sunrise Hospital,Melissa Cantu,2023-07-12,2023-07-22,7051.7,Yes,South Gregorychester,94/74,110
+349,Sheri Blankenship,5,Female,Heart Disease,Medication,St. Mary’s Clinic,Victor Phillips,2024-08-14,2024-08-16,8834.87,Yes,New Calvinview,95/90,60
+350,Tracy Jackson,65,Female,Hypertension,Observation,City Hospital,April Jefferson,2023-08-07,2023-08-18,5592.51,No,Ramirezmouth,153/96,73
+351,Wendy Cooley,95,Other,Flu,Surgery,St. Mary’s Clinic,James Chavez,2024-07-04,2024-07-09,8837.85,Yes,North Nicholaston,112/71,110
+352,Cathy Williams,11,Other,Diabetes,Observation,St. Mary’s Clinic,Felicia Cross,2023-10-08,2023-10-21,4932.17,Yes,Davisside,157/97,69
+353,Russell Delgado,66,Male,Heart Disease,Therapy,General Hospital,Robert Patton,2024-09-26,2024-10-07,9407.7,No,Port Jeffreymouth,148/83,101
+354,Tammie Roth,100,Female,Flu,Lifestyle Change,General Hospital,Margaret Davis,2024-11-19,2024-11-26,1215.68,Yes,Katherinechester,124/72,87
+355,Wendy Knight,74,Female,Flu,Lifestyle Change,Sunrise Hospital,Regina Sullivan,2023-12-16,2023-12-22,8958.15,No,North Jodi,124/94,67
+356,Dennis Martin,40,Other,Diabetes,Therapy,St. Mary’s Clinic,Victoria Davidson,2024-12-25,2025-01-04,9080.46,Yes,Lake Angelaton,112/61,109
+357,Keith Morgan,93,Male,Migraine,Observation,St. Mary’s Clinic,Haley Moore,2024-02-20,,8589.76,Yes,North Anneburgh,128/89,74
+358,Stephanie Roberts,2,Male,Migraine,Surgery,HealthCare Center,Jeremy Stevens,2023-04-26,2023-05-12,5732.89,Yes,New Laurieshire,134/80,65
+359,Anthony Barton,84,Other,Allergy,Therapy,HealthCare Center,Jeffrey Weber,2023-08-13,2023-08-18,5262.6,No,Harrisstad,114/87,53
+360,Taylor Jones MD,66,Male,Hypertension,Medication,General Hospital,Christopher Bartlett,2024-04-23,2024-04-28,3778.62,No,Jeffreyland,147/99,84
+361,Bobby Jones,41,Female,Allergy,Medication,General Hospital,Sandra Bennett,2024-07-28,2024-08-10,9487.72,No,North Lauraton,159/64,95
+362,Connie Roach,68,Other,COVID-19,Medication,HealthCare Center,Jonathon Williams,2023-11-06,2023-11-07,8405.6,No,East Christopherhaven,132/78,87
+363,Roy Harrison,27,Male,Heart Disease,Lifestyle Change,HealthCare Center,Mark Weeks,2023-03-20,2023-04-04,2694.08,Yes,Joyport,151/95,84
+364,Frederick Ramirez,50,Female,Asthma,Surgery,City Hospital,Ryan Kirby,2024-10-18,2024-11-07,4112.94,Yes,Ingramberg,160/65,51
+365,Joel Rivera,64,Other,Heart Disease,Lifestyle Change,City Hospital,Stacey Bryan,2023-06-30,2023-07-16,9150.6,No,Lake Williamburgh,158/82,94
+366,Perry Hart,93,Male,Flu,Lifestyle Change,St. Mary’s Clinic,Patrick Mcgrath,2023-03-03,2023-03-07,9422.72,No,North Julieville,132/87,82
+367,Lauren Adkins,36,Other,COVID-19,Observation,HealthCare Center,Linda Rodriguez,2023-04-30,2023-05-03,2441.38,No,Wilsonville,115/92,54
+368,Emily Palmer,14,Other,Asthma,Medication,St. Mary’s Clinic,Linda Haynes,2024-08-14,2024-08-20,2796.64,No,Andersonborough,115/61,50
+369,Debra Johnson,61,Female,Migraine,Lifestyle Change,HealthCare Center,Lisa Livingston,2023-11-15,2023-11-20,9547.65,Yes,Evansfort,144/70,90
+370,Melissa Holmes,5,Female,COVID-19,Therapy,HealthCare Center,Brandon Taylor,2023-08-09,2023-08-22,2618.84,Yes,East Deanna,120/75,93
+371,Ashley Blair,1,Female,Diabetes,Medication,Sunrise Hospital,Samuel Moore,2024-12-10,2024-12-23,6582.46,Yes,Jessicaville,109/70,51
+372,Jordan Williams,55,Female,Obesity,Surgery,St. Mary’s Clinic,Kenneth Hunt,2023-04-08,2023-04-26,4980.87,No,Saramouth,112/90,61
+373,Curtis Johnston,23,Female,Allergy,Observation,General Hospital,Mark Boyer,2023-10-18,2023-10-26,3516.92,No,Josehaven,90/88,103
+374,Heather Smith,37,Male,Asthma,Lifestyle Change,City Hospital,Lori Gonzalez,2024-04-18,2024-05-05,1199.0,Yes,East Brian,96/94,87
+375,Matthew Heath,92,Other,Asthma,Surgery,St. Mary’s Clinic,Sean Long,2024-09-14,2024-09-21,1349.33,No,Port Markstad,157/67,96
+376,Kathryn Parsons,82,Male,COVID-19,Therapy,St. Mary’s Clinic,Veronica Wilson,2024-05-05,,4907.15,Yes,Stephaniestad,120/92,59
+377,Sharon Mccormick,31,Other,Obesity,Surgery,St. Mary’s Clinic,Austin Carpenter,2025-02-04,2025-02-09,3468.45,No,New Mariah,153/91,72
+378,Jason Parks,19,Female,Allergy,Observation,City Hospital,Benjamin Howell,2023-10-21,2023-10-26,6094.28,No,Rhodesbury,154/71,101
+379,Sean Wilson,10,Female,Diabetes,Observation,St. Mary’s Clinic,Andrew Kim,2023-10-05,2023-10-17,6198.46,No,East Sarahmouth,103/60,93
+380,Shirley Porter,28,Other,Flu,Therapy,City Hospital,Craig Gonzalez,2023-11-05,2023-11-16,3733.49,Yes,Brettburgh,121/83,89
+381,Sandra Garcia,41,Female,Cancer,Medication,City Hospital,Andrea Barrett,2024-04-03,2024-04-17,5932.76,No,Lowechester,115/100,50
+382,Daniel Brown,2,Male,Obesity,Lifestyle Change,City Hospital,William Ramos,2024-08-09,,6653.01,Yes,Douglasburgh,96/80,66
+383,Jamie Huber,46,Other,Heart Disease,Surgery,HealthCare Center,Sandra Lang,2024-11-14,2024-11-24,9187.99,Yes,East Jasonberg,121/98,76
+384,Mary Winters,41,Female,Heart Disease,Therapy,City Hospital,Nicholas Dennis,2024-08-08,2024-08-28,4644.59,Yes,West Brittanyberg,114/87,87
+385,Julie Rojas,31,Other,Flu,Surgery,St. Mary’s Clinic,John Wood,2024-05-28,,9006.84,No,New Stevenshire,98/76,81
+386,Ryan Johnson,35,Female,Obesity,Surgery,HealthCare Center,Amy Cunningham,2023-06-07,2023-06-13,7295.77,No,Danielbury,135/99,94
+387,Raymond Robinson,60,Male,Flu,Medication,HealthCare Center,Troy Delgado,2023-04-16,2023-04-17,2845.22,Yes,Lake Jenniferchester,127/92,92
+388,Linda Ramirez,100,Male,Migraine,Medication,Sunrise Hospital,Jesse Richards,2023-05-23,,4891.35,Yes,Johnmouth,135/91,62
+389,Laura James,7,Other,Allergy,Lifestyle Change,Sunrise Hospital,Matthew Dominguez,2023-06-18,,741.94,No,Phillipsshire,122/86,103
+390,Erin Wood,20,Male,Heart Disease,Lifestyle Change,HealthCare Center,Andrew Johnson,2023-04-16,2023-04-19,2126.18,No,South Paul,157/79,106
+391,Mary Parker,71,Male,Obesity,Surgery,St. Mary’s Clinic,Victoria Perez,2025-01-05,2025-01-23,9939.09,Yes,Halehaven,152/63,77
+392,Nicole Thornton,39,Female,Migraine,Surgery,HealthCare Center,Kimberly Burke,2024-11-05,,667.4,Yes,West Edward,104/61,59
+393,Mark Mann,93,Other,Allergy,Therapy,HealthCare Center,Austin Smith,2023-07-16,,5962.52,Yes,Jodyshire,96/93,51
+394,Bradley Harper,53,Other,Allergy,Medication,Sunrise Hospital,Dr. Cathy Hernandez,2023-09-09,,530.11,No,New John,131/93,59
+395,Aaron Hines,83,Male,Diabetes,Lifestyle Change,Sunrise Hospital,Tom Leblanc,2024-01-16,2024-01-29,3765.35,No,Alexaview,137/75,107
+396,Shannon Meyer,17,Male,Migraine,Observation,City Hospital,Amanda Jones,2024-12-07,,3632.82,Yes,New Ariel,140/77,79
+397,Nancy Montgomery,70,Male,Diabetes,Medication,HealthCare Center,Kathy Moore,2023-11-23,2023-11-24,2455.08,No,Villanuevaborough,135/72,54
+398,Thomas Ray,39,Female,Obesity,Medication,General Hospital,Stephen Brooks,2023-12-17,2024-01-05,7107.27,Yes,Barnesville,140/60,63
+399,Robert Baker,55,Female,COVID-19,Therapy,General Hospital,Dustin Erickson,2024-05-22,2024-06-07,1881.35,No,Port Jennifer,128/93,65
+400,Jo Figueroa,71,Female,Cancer,Medication,HealthCare Center,Matthew Jones,2024-05-09,2024-05-25,9121.19,Yes,Lake Michaelhaven,121/64,108
+401,Travis Wood,56,Other,Hypertension,Observation,HealthCare Center,Lindsay Roth,2024-11-20,,9756.39,No,Lake Joanna,121/85,92
+402,Richard Dunn,70,Male,Allergy,Surgery,General Hospital,Shelia Atkins,2024-01-21,2024-01-23,9213.7,Yes,Kevinmouth,110/65,101
+403,Benjamin Johnson,2,Other,Heart Disease,Surgery,City Hospital,Jamie Webster,2023-12-16,,1501.74,No,Nicholasland,111/75,99
+404,Danny Ferguson,13,Other,Obesity,Observation,HealthCare Center,Jeremy Johnson,2023-08-26,2023-09-03,7498.9,Yes,South Alexandriamouth,129/68,97
+405,Linda Zimmerman,33,Male,Cancer,Lifestyle Change,HealthCare Center,George Brown,2023-09-04,2023-09-11,2088.69,Yes,Reneeville,153/62,58
+406,Laura Sullivan,6,Male,Heart Disease,Medication,General Hospital,Tony Thornton,2024-03-10,2024-03-11,8730.04,Yes,Estradamouth,126/86,88
+407,Ashley Gross,71,Female,Cancer,Observation,Sunrise Hospital,Monica Rocha,2024-07-04,2024-07-11,6753.79,Yes,Phillipsshire,119/89,52
+408,David Valdez,55,Female,Asthma,Therapy,Sunrise Hospital,Daniel Strong,2024-03-22,2024-04-04,4602.74,Yes,Stevenmouth,95/89,76
+409,Eric Washington,77,Male,COVID-19,Observation,St. Mary’s Clinic,Nathaniel Garcia,2024-09-29,2024-10-09,1764.27,Yes,Port Paultown,145/74,77
+410,Steven Rocha PhD,86,Female,Hypertension,Medication,HealthCare Center,Joanna Huffman,2023-10-12,,9873.02,Yes,South Gregoryshire,148/76,58
+411,Laurie Townsend,55,Male,Flu,Therapy,General Hospital,Taylor Perry,2023-08-03,2023-08-04,2063.9,No,West Suetown,122/73,63
+412,Micheal Hawkins,10,Other,Migraine,Therapy,General Hospital,Andrea Smith,2023-06-10,2023-06-17,7997.13,Yes,South Christophershire,110/76,61
+413,David Butler,89,Male,Migraine,Surgery,City Hospital,Rachel Wallace,2024-03-19,2024-03-26,3773.27,Yes,West Jill,149/62,94
+414,Matthew Harding,48,Male,Asthma,Therapy,General Hospital,Steven Fox,2024-08-05,2024-08-12,3082.66,No,Danielleton,116/67,67
+415,Taylor Hancock,1,Other,Diabetes,Surgery,HealthCare Center,Derek Galvan,2025-02-17,2025-03-01,1308.15,Yes,East Michael,94/60,56
+416,Brian Rodriguez,50,Other,Obesity,Observation,General Hospital,Garrett Barrera,2024-05-20,,1738.08,Yes,Lake Christopherside,119/75,62
+417,Desiree Martinez,59,Male,Asthma,Therapy,City Hospital,James Rodriguez,2024-05-26,2024-06-15,9260.03,No,Dannyshire,151/87,66
+418,William Sanchez,10,Male,Flu,Medication,General Hospital,Eugene Miller,2023-07-27,2023-08-01,7136.5,No,West Rachel,119/94,67
+419,Marc Glover,19,Male,Flu,Observation,General Hospital,Lindsey Wade,2023-11-13,2023-11-30,525.24,No,Castroshire,155/93,64
+420,Steven Austin,5,Other,Asthma,Therapy,HealthCare Center,Adam Anthony,2024-07-04,2024-07-11,1109.91,No,Lawrenceville,118/89,51
+421,Cheryl Mathis,33,Female,Hypertension,Observation,St. Mary’s Clinic,Michael Smith,2024-01-19,2024-01-31,3495.41,Yes,East Emilyfort,143/90,69
+422,Pamela Miller,77,Female,Cancer,Surgery,City Hospital,Samuel Jackson,2023-12-25,2024-01-13,2792.39,Yes,North Jenniferbury,95/98,59
+423,Erik Garcia,85,Male,Asthma,Therapy,Sunrise Hospital,Sharon Smith,2024-02-16,2024-03-02,3219.49,Yes,Woodsfort,115/65,69
+424,Ashley Anderson,81,Other,Flu,Surgery,St. Mary’s Clinic,Alison Gallagher,2023-02-24,2023-03-03,6227.47,Yes,Sallymouth,99/77,83
+425,Gary Hernandez,73,Other,Migraine,Observation,General Hospital,Steven Oneill,2024-05-17,2024-05-26,3648.14,Yes,South Claudia,143/94,70
+426,Robert Joyce,97,Other,Allergy,Lifestyle Change,St. Mary’s Clinic,Nicholas Wang,2024-10-24,2024-11-01,677.97,No,Stoneton,115/88,91
+427,Deborah King,92,Male,Asthma,Observation,HealthCare Center,Michael Booth,2024-10-15,2024-10-24,4600.42,Yes,New Ginafort,152/77,71
+428,Dennis Miranda,52,Other,Migraine,Lifestyle Change,HealthCare Center,David Austin,2023-04-03,2023-04-17,3696.45,Yes,Lake Sandra,142/70,50
+429,Darren Little,74,Other,Diabetes,Medication,St. Mary’s Clinic,Gregory Johnson,2024-08-30,2024-09-12,2506.46,No,Hammondville,122/81,63
+430,Russell Lee,50,Female,Heart Disease,Observation,General Hospital,Austin Coleman,2024-05-27,2024-05-28,7948.51,No,Wardland,107/80,86
+431,Lauren Collier,58,Female,Migraine,Lifestyle Change,Sunrise Hospital,Mrs. Annette Richmond,2023-05-27,2023-06-14,9546.83,Yes,Kirkbury,157/77,71
+432,Nathaniel Barnett,13,Other,Diabetes,Observation,St. Mary’s Clinic,Edward Brown,2025-02-14,2025-03-01,9561.52,No,North Danielborough,119/100,60
+433,Gregory Bowen,55,Male,Hypertension,Surgery,General Hospital,Kenneth Holloway,2024-02-06,2024-02-12,7336.14,Yes,Lake Keith,113/75,82
+434,Andrea Henry,90,Female,Hypertension,Observation,General Hospital,Amy Rhodes,2024-11-18,2024-11-25,9071.31,Yes,North Jamieton,127/77,87
+435,William Martinez,77,Other,Heart Disease,Medication,St. Mary’s Clinic,Anna Price,2023-03-21,2023-03-26,4632.91,No,Mendozamouth,158/63,56
+436,Alexandra White,48,Female,Cancer,Therapy,Sunrise Hospital,Kyle Diaz,2023-12-16,2023-12-22,3431.33,Yes,Stevensland,133/77,101
+437,James Burgess,21,Male,Cancer,Therapy,St. Mary’s Clinic,Kimberly Mitchell,2024-03-08,2024-03-28,1104.45,Yes,Port Richard,131/97,59
+438,Carlos Wyatt,3,Female,Migraine,Lifestyle Change,St. Mary’s Clinic,Jennifer Owens,2024-04-10,2024-04-28,5284.82,Yes,North Tonyaton,118/76,97
+439,Benjamin Jones,100,Other,Migraine,Therapy,Sunrise Hospital,Timothy James,2024-09-06,2024-09-20,1135.54,Yes,Carrfort,139/100,53
+440,Jason Glass,16,Other,Asthma,Surgery,HealthCare Center,Greg Baker,2024-05-27,2024-06-15,1313.5,Yes,Lake Rebeccaview,144/63,56
+441,Eugene Hawkins,61,Other,Allergy,Lifestyle Change,St. Mary’s Clinic,Steven Gallagher,2024-02-01,2024-02-03,8085.61,No,New Leslietown,97/100,87
+442,Jennifer Moore,50,Female,Hypertension,Surgery,St. Mary’s Clinic,Paul Howell,2024-08-09,,7336.01,Yes,Port Angelica,159/65,109
+443,Derek Miller,56,Female,Allergy,Therapy,General Hospital,Vernon Gardner,2024-04-21,2024-04-27,3553.93,Yes,West Michele,119/100,78
+444,Chad Coleman,27,Female,Asthma,Medication,St. Mary’s Clinic,David Solomon,2024-04-03,2024-04-05,828.88,No,West Danielchester,139/74,56
+445,Ricardo Taylor,57,Female,Obesity,Observation,City Hospital,Edward Hayes,2023-10-02,2023-10-18,2536.25,Yes,Lynchside,116/94,85
+446,Heidi Robbins,70,Other,COVID-19,Therapy,St. Mary’s Clinic,Valerie Moore,2024-09-03,,951.05,Yes,Nelsonburgh,148/92,57
+447,Robert Navarro,99,Female,Cancer,Lifestyle Change,HealthCare Center,Jacob Rivera,2024-03-29,2024-04-10,4635.14,Yes,Moorehaven,122/88,70
+448,Edwin Fowler,46,Female,Allergy,Surgery,HealthCare Center,Kristin Brandt,2023-08-09,2023-08-19,6979.67,Yes,Tonyamouth,119/78,75
+449,Dr. Catherine Pitts,77,Female,COVID-19,Surgery,City Hospital,Joshua James,2024-12-16,2024-12-29,7053.11,No,Brittanyview,115/72,72
+450,Brittany Jones,66,Other,Cancer,Observation,Sunrise Hospital,Teresa West,2023-07-15,2023-07-23,2851.88,No,South Joseph,95/63,64
+451,Renee Gardner,99,Male,Migraine,Surgery,Sunrise Hospital,Zachary Meyer,2024-07-15,2024-07-27,3759.28,No,Justinview,132/79,80
+452,Nancy Moore,28,Male,Diabetes,Observation,Sunrise Hospital,Amanda Taylor,2024-08-10,2024-08-26,6762.2,No,Millsfort,121/87,50
+453,Jason Smith,93,Female,Diabetes,Medication,HealthCare Center,Barbara Shepard,2023-05-21,2023-05-27,447.49,No,Lake Johnny,160/96,108
+454,Matthew Coleman,28,Female,Allergy,Medication,City Hospital,Eric Jackson,2023-08-03,2023-08-18,8893.51,No,Fordmouth,120/82,105
+455,Courtney Adams,43,Male,Cancer,Observation,St. Mary’s Clinic,Matthew Jones,2024-08-05,2024-08-19,2750.21,No,Hensleyport,134/67,75
+456,Scott Massey,10,Female,Migraine,Surgery,HealthCare Center,Ronald Sherman,2023-06-03,2023-06-05,4179.83,Yes,Port Loristad,146/79,87
+457,George Trevino,75,Female,Diabetes,Medication,St. Mary’s Clinic,Allison Fleming,2024-09-05,2024-09-17,9111.77,No,Lake Jason,147/92,85
+458,Robert Schaefer,12,Other,Obesity,Observation,Sunrise Hospital,Laura Simmons,2024-12-23,2025-01-03,1223.88,No,Lake Cynthia,127/74,99
+459,Angela Dodson,37,Male,Heart Disease,Therapy,City Hospital,Alexis Liu,2025-01-18,2025-01-30,230.61,No,Kellychester,98/92,78
+460,Amy Woods,59,Other,Diabetes,Observation,HealthCare Center,Rebecca Carey,2024-03-10,2024-03-22,1359.37,Yes,Sarachester,108/71,67
+461,Marcus Bishop,98,Female,Cancer,Lifestyle Change,St. Mary’s Clinic,Hannah Brown,2025-01-13,2025-01-26,1206.64,No,Batesside,100/81,109
+462,Todd Huff,5,Male,Asthma,Therapy,General Hospital,Kristin Holden,2024-03-31,2024-04-07,5155.82,No,West Blake,117/98,94
+463,Riley Lopez,28,Other,Asthma,Lifestyle Change,Sunrise Hospital,Sandra Ross,2024-07-17,2024-07-25,5452.74,No,Bensonville,127/73,108
+464,Jason Horton,54,Other,Cancer,Medication,HealthCare Center,Patrick Simpson,2023-09-11,2023-09-14,5156.51,Yes,Popeview,112/68,53
+465,Larry Mills,78,Other,Heart Disease,Lifestyle Change,St. Mary’s Clinic,Bruce Davis,2023-06-21,2023-06-24,8373.97,Yes,Veronicaburgh,134/96,55
+466,Mallory Bond,52,Other,Asthma,Lifestyle Change,HealthCare Center,Mercedes Ellison,2023-09-18,,3932.52,Yes,Lisaborough,142/64,87
+467,Brian Johnson,46,Male,Migraine,Observation,St. Mary’s Clinic,Cristian Rivera,2023-06-09,2023-06-25,1494.02,Yes,New William,140/71,62
+468,Danny Rubio,58,Female,Heart Disease,Therapy,General Hospital,Andrew Mendoza,2023-10-03,2023-10-22,2612.69,Yes,North Mary,132/99,73
+469,Janet Floyd,21,Female,Hypertension,Medication,HealthCare Center,Katelyn Clark,2023-11-21,2023-12-05,2436.16,No,Hardinburgh,124/77,92
+470,Sarah Garcia,97,Other,Diabetes,Medication,City Hospital,Jonathan Smith,2023-12-28,2024-01-10,4296.96,Yes,New Lisastad,96/99,82
+471,Katie Silva,84,Male,Migraine,Therapy,St. Mary’s Clinic,Whitney Gonzales,2024-01-07,2024-01-10,4911.12,No,Lake Rebecca,138/68,86
+472,Ricky Wood,55,Female,COVID-19,Therapy,General Hospital,Samuel Campbell,2023-07-08,,7076.98,Yes,South Amy,153/74,97
+473,Stephen Stone,50,Female,Allergy,Observation,Sunrise Hospital,James Bird,2024-11-22,2024-11-24,884.66,Yes,North Joshuaberg,101/74,93
+474,Joseph Mason,18,Male,Heart Disease,Therapy,HealthCare Center,Amber Fox,2023-11-16,2023-11-18,9772.16,No,Loriborough,118/100,84
+475,Brandon Haynes,55,Male,Migraine,Lifestyle Change,City Hospital,Erin Richards,2023-09-17,,2743.91,No,Stephenview,99/67,90
+476,Anthony Sherman,15,Other,Migraine,Lifestyle Change,Sunrise Hospital,David Allen MD,2024-07-09,2024-07-24,206.42,Yes,Garzahaven,100/64,56
+477,Matthew Lewis,64,Female,Obesity,Lifestyle Change,Sunrise Hospital,Preston West,2023-03-07,2023-03-10,7451.59,No,Port Jennifer,131/88,98
+478,Matthew Ochoa,36,Other,Obesity,Medication,General Hospital,Steve Hernandez,2023-04-18,,1695.23,No,Wayneland,125/100,52
+479,Xavier Sanders,14,Other,Heart Disease,Observation,General Hospital,Matthew Hunter,2024-06-15,,207.03,Yes,North Julie,99/97,90
+480,William Hoffman,51,Other,Migraine,Medication,General Hospital,Alexis Melton,2025-02-14,2025-02-17,5875.63,Yes,Maryfurt,115/80,83
+481,Mrs. Taylor Wagner,63,Female,Hypertension,Observation,General Hospital,Cory Howard,2024-10-16,,3119.79,No,East Dylan,159/78,79
+482,Keith Owens,17,Male,Allergy,Medication,General Hospital,Andrew Martin,2024-07-18,2024-07-30,5592.27,Yes,Andrewland,95/77,89
+483,Henry Moore,80,Male,Migraine,Surgery,St. Mary’s Clinic,Ryan Smith,2024-10-23,2024-10-25,607.18,Yes,Allisonview,119/94,101
+484,Adrienne Byrd,67,Female,Hypertension,Medication,St. Mary’s Clinic,Patricia Jackson,2023-06-18,2023-06-22,7624.81,No,Nicoleburgh,106/68,67
+485,Heather Robinson,22,Male,Flu,Therapy,Sunrise Hospital,Michele Thomas,2023-06-26,2023-07-11,6440.36,Yes,Port Judy,91/66,51
+486,Michael Franklin,63,Female,Allergy,Observation,City Hospital,Lisa Nelson,2023-05-15,2023-05-20,5935.03,No,Howardtown,114/89,88
+487,William Ramirez,9,Male,Flu,Lifestyle Change,St. Mary’s Clinic,Samuel Jackson,2024-07-14,,7631.69,Yes,Leefort,119/66,60
+488,Nicholas Hudson,15,Other,Hypertension,Surgery,HealthCare Center,Craig Williams,2023-03-03,2023-03-06,9805.08,No,West Lauren,125/91,74
+489,Dean Kaiser,25,Female,Diabetes,Medication,Sunrise Hospital,James Freeman,2023-09-23,2023-10-12,2354.32,No,South Gregory,124/100,86
+490,Deborah Bradley,69,Other,Obesity,Surgery,Sunrise Hospital,Joel Powers,2023-04-28,2023-05-06,5867.44,No,North Deborahfort,160/60,68
+491,Caleb Robinson,41,Other,Flu,Therapy,General Hospital,John Barker,2025-01-15,2025-02-02,5022.24,Yes,Port Jasonborough,150/79,88
+492,David Barnes,62,Other,Allergy,Therapy,General Hospital,Mr. Jonathan Thompson,2023-11-21,2023-12-01,7072.35,No,North Brittney,108/62,100
+493,Jose Lewis,42,Male,Heart Disease,Observation,HealthCare Center,Brian Macdonald,2023-05-29,2023-06-02,3811.3,Yes,Millerport,95/98,61
+494,Abigail Hurst,86,Female,Heart Disease,Medication,St. Mary’s Clinic,Connor Thomas,2024-10-30,2024-11-04,2663.98,No,South Tabitha,100/71,86
+495,Amy Fuentes,100,Male,Cancer,Therapy,St. Mary’s Clinic,Heather Williams,2024-04-28,2024-05-11,4664.47,Yes,Amandabury,101/84,84
+496,James Ryan,70,Other,Cancer,Observation,St. Mary’s Clinic,Francisco Berger,2024-10-22,,5636.49,Yes,Leonardfort,144/94,75
+497,Eric Smith,17,Female,Diabetes,Medication,St. Mary’s Clinic,Bruce Lewis,2024-01-11,2024-01-23,6539.07,No,Brandonview,104/85,80
+498,Nancy Wright MD,37,Male,Cancer,Medication,Sunrise Hospital,Robert Miller,2024-10-26,2024-10-27,7706.45,Yes,West Ericfort,158/71,61
+499,Sarah Wilson,70,Female,Asthma,Surgery,General Hospital,Sean Jones,2024-01-28,2024-02-13,4342.12,Yes,East Jeff,136/89,88
+500,George Atkins,2,Female,Migraine,Surgery,City Hospital,Ryan Anderson,2023-09-18,,9589.22,Yes,Lunahaven,148/77,68
+501,Donald Cortez,76,Other,Obesity,Observation,General Hospital,Tammy Coleman,2023-07-01,2023-07-06,8636.18,No,Port Jennifer,142/91,53
+502,Andrew Martinez,68,Male,Asthma,Observation,St. Mary’s Clinic,Patty Gomez,2024-09-20,2024-09-24,5355.62,Yes,North Barbaraport,135/87,51
+503,Ann Taylor,81,Female,Asthma,Medication,St. Mary’s Clinic,Joanna Spencer,2024-07-25,2024-07-28,517.19,Yes,Taylorport,93/60,76
+504,Cristian Freeman,78,Male,Asthma,Lifestyle Change,Sunrise Hospital,Antonio Smith,2023-03-28,2023-03-30,9649.0,Yes,Crosbytown,106/91,101
+505,Steven White,34,Male,Allergy,Therapy,City Hospital,James Cabrera,2024-02-08,2024-02-24,525.86,Yes,Guzmanberg,143/79,86
+506,Mary Ortega,30,Other,Allergy,Therapy,Sunrise Hospital,Corey Mitchell,2025-01-08,2025-01-15,3607.71,Yes,East Debra,134/96,66
+507,Leslie Williams,9,Other,Hypertension,Observation,HealthCare Center,Kathryn Young,2023-04-12,2023-04-22,6252.09,No,South Edward,148/94,104
+508,Justin Stein,15,Other,Heart Disease,Medication,St. Mary’s Clinic,Michelle Knight,2023-06-28,2023-07-01,601.25,No,West Frankmouth,151/91,96
+509,Anne Parker,23,Male,Diabetes,Therapy,St. Mary’s Clinic,Sara Johnson,2024-12-31,,5699.43,No,Port Katiehaven,110/73,95
+510,David Morris,7,Female,Obesity,Lifestyle Change,City Hospital,Karen Hall,2023-09-12,2023-09-18,4809.75,Yes,Mooreland,99/64,91
+511,Lisa Hartman,64,Other,Diabetes,Surgery,General Hospital,James Roberts,2024-08-17,2024-09-01,5906.57,Yes,Port Emily,155/72,53
+512,Jeremy Preston,20,Female,Diabetes,Therapy,HealthCare Center,Jennifer Chen,2024-10-15,2024-10-29,4975.91,Yes,New Christopherfort,113/63,65
+513,Joseph Dunlap,13,Female,Cancer,Lifestyle Change,St. Mary’s Clinic,Deborah Garcia,2023-12-31,2024-01-02,4660.85,Yes,New Brianmouth,123/67,62
+514,Charles Washington,21,Male,Allergy,Lifestyle Change,General Hospital,Andrew Francis,2023-04-27,2023-05-05,2225.83,No,North Adam,115/83,58
+515,Matthew Taylor,13,Female,Obesity,Observation,St. Mary’s Clinic,Kimberly Roberts,2023-06-17,2023-07-01,8991.42,Yes,West Andreaport,128/90,59
+516,Angela Smith,33,Other,Asthma,Medication,General Hospital,Rebecca Richardson,2024-02-17,2024-02-18,9154.8,Yes,South Joseph,144/94,107
+517,Taylor Kelly,6,Male,Flu,Therapy,City Hospital,Isabel Wolf,2023-09-25,2023-10-11,6937.12,Yes,South Christina,149/89,92
+518,Matthew Werner,31,Female,Hypertension,Lifestyle Change,St. Mary’s Clinic,Kevin Levine,2025-02-17,,7915.3,Yes,South Paulberg,150/67,82
+519,Jonathan Vega,47,Male,Heart Disease,Lifestyle Change,General Hospital,Molly Dean,2024-02-29,2024-03-14,4778.98,No,Lake Jennifer,137/98,71
+520,Sarah Michael,76,Male,Hypertension,Therapy,City Hospital,Yvette Oneal,2024-01-11,2024-01-14,1739.97,No,Thomasfort,142/99,71
+521,Nancy Giles,100,Other,Diabetes,Observation,General Hospital,Stephanie Becker,2023-10-04,2023-10-14,7841.12,No,Port Bryanfort,147/95,70
+522,Bryan Lewis,89,Female,Flu,Observation,City Hospital,John Henderson,2023-09-11,2023-09-21,5381.55,No,Richardsonchester,148/70,50
+523,Justin Guzman,100,Male,Cancer,Surgery,St. Mary’s Clinic,Dr. Savannah Velasquez,2023-09-04,2023-09-11,5076.9,Yes,Lake Michael,120/98,94
+524,Kristina Brown,25,Other,Allergy,Observation,HealthCare Center,Brian Wilson,2024-02-05,2024-02-17,9221.96,No,South Lisaside,141/74,73
+525,Gina Smith,58,Female,Heart Disease,Surgery,HealthCare Center,Bryan Cisneros,2024-08-21,,4075.25,Yes,Turnerbury,118/68,66
+526,Charles Ellis,87,Female,Flu,Lifestyle Change,HealthCare Center,Matthew Brennan,2024-07-14,2024-07-15,4892.63,No,Greenville,119/66,103
+527,Jessica Smith,45,Other,Asthma,Lifestyle Change,Sunrise Hospital,Alexandra Griffin,2024-11-16,2024-11-30,8900.27,Yes,Lake Lindamouth,160/89,74
+528,Kevin Bates,26,Female,Heart Disease,Surgery,City Hospital,Amber White,2023-02-26,2023-03-11,6947.6,Yes,New Dawn,102/76,97
+529,Jennifer Kennedy,28,Other,Heart Disease,Therapy,HealthCare Center,John Carroll,2023-09-05,,4999.13,Yes,Michelletown,136/86,61
+530,Michael Henry,85,Male,Obesity,Therapy,City Hospital,Mr. Don Murray,2023-03-24,2023-04-02,195.34,No,East Randyview,107/75,51
+531,Dr. Kenneth Jordan,80,Male,Asthma,Observation,City Hospital,Katelyn Davis,2024-07-10,,9818.18,Yes,East Amanda,131/77,87
+532,Richard Campbell,41,Male,Flu,Therapy,HealthCare Center,Christina Richardson,2025-01-28,2025-02-07,6499.84,No,Port Nicolemouth,141/94,100
+533,Lori Figueroa,26,Female,Diabetes,Lifestyle Change,City Hospital,Darius Andrews,2023-06-20,2023-06-28,7246.87,Yes,Jamesburgh,92/68,103
+534,Robert Watkins,56,Other,Hypertension,Therapy,Sunrise Hospital,Andrew Valenzuela,2024-11-30,2024-12-20,6297.11,Yes,Port Kennethburgh,122/62,83
+535,Mr. Daniel Ross,40,Other,Migraine,Observation,City Hospital,Edward Wilson,2023-07-25,2023-08-13,7516.33,No,West Erinland,131/82,77
+536,Tracy Phillips,54,Other,Migraine,Medication,General Hospital,Jacqueline Newton,2024-05-07,,638.49,No,Meadowsmouth,152/60,105
+537,Brian Wilson,45,Other,Diabetes,Lifestyle Change,HealthCare Center,Shannon Dean,2025-01-04,2025-01-18,243.02,No,East Karenshire,156/77,83
+538,Kevin Marshall,42,Male,Asthma,Medication,General Hospital,Jonathan Bell,2024-12-09,2024-12-23,7163.46,No,North Susanton,153/70,108
+539,Erin Park,43,Female,Flu,Surgery,HealthCare Center,Kelly Hill,2024-03-15,2024-03-26,2099.79,Yes,Blakefurt,98/91,90
+540,Janice Fernandez,92,Female,Asthma,Observation,General Hospital,Kevin Guerrero,2025-01-22,2025-02-06,4416.84,Yes,New Emily,125/99,81
+541,Michelle Singh,35,Female,Hypertension,Lifestyle Change,City Hospital,Chad Mcclure,2024-10-31,2024-11-05,4971.45,No,East Nathanhaven,105/82,87
+542,William Mays,90,Male,Cancer,Medication,HealthCare Center,Heather Short,2024-06-03,2024-06-19,3935.63,No,South Derek,107/61,105
+543,Zachary Cardenas,55,Male,COVID-19,Surgery,City Hospital,Joshua Graves,2024-06-16,2024-06-21,9019.92,No,West John,141/73,50
+544,Wesley Garrison,22,Other,Asthma,Surgery,General Hospital,Kimberly Mcdonald,2025-01-07,2025-01-19,6136.77,Yes,South Cynthiatown,139/97,93
+545,Seth Thompson,29,Male,Obesity,Observation,City Hospital,Melissa Palmer,2024-08-08,2024-08-14,4361.66,Yes,West Ryantown,118/71,91
+546,Brenda Garner,90,Female,COVID-19,Surgery,HealthCare Center,Ralph Olson,2023-05-20,,7319.92,Yes,Pooleburgh,111/85,56
+547,Rachel Wallace,100,Male,Flu,Lifestyle Change,General Hospital,Steven Jackson,2025-02-13,,4859.33,Yes,Port Aaronchester,107/66,54
+548,Hunter Joseph,55,Male,Allergy,Observation,General Hospital,Kevin Padilla,2023-12-01,,2456.05,No,Elizabethhaven,120/90,102
+549,Daniel Ortega IV,11,Male,Heart Disease,Lifestyle Change,Sunrise Hospital,Gary Dean,2023-11-22,2023-12-10,7303.36,No,Johnborough,116/62,57
+550,Edward Lewis,70,Other,Migraine,Lifestyle Change,Sunrise Hospital,Natalie Molina,2023-12-03,2023-12-20,1946.52,Yes,Michaelshire,152/73,100
+551,Robert Larsen,94,Other,Migraine,Observation,St. Mary’s Clinic,Chad Peterson,2023-05-19,2023-05-31,5628.41,Yes,Chelseaside,108/85,85
+552,Lauren Phillips,40,Other,Asthma,Therapy,HealthCare Center,Timothy Brown,2023-12-07,2023-12-08,5857.25,Yes,South Julia,97/61,86
+553,Kaitlin Lopez,61,Female,COVID-19,Lifestyle Change,HealthCare Center,Patrick Rodriguez,2024-07-22,2024-08-08,5860.98,Yes,Austinmouth,100/96,65
+554,Roberta Burns,5,Other,Cancer,Lifestyle Change,General Hospital,Jacqueline Brown,2023-12-16,2024-01-01,617.74,No,Kaisertown,119/100,63
+555,Kimberly Johnston DDS,4,Other,Hypertension,Surgery,City Hospital,Karen Knight,2024-03-10,2024-03-20,7345.81,No,Lake Jeremyfurt,95/99,96
+556,Austin Morris,79,Female,Diabetes,Therapy,City Hospital,Mr. Billy Reyes DDS,2024-12-21,,2596.17,Yes,East Sharon,140/78,102
+557,Justin May,72,Other,Cancer,Lifestyle Change,City Hospital,Stephanie Hall,2023-07-23,2023-08-03,888.67,Yes,Matthewsfort,143/92,103
+558,Bianca Ramirez,39,Male,Flu,Lifestyle Change,City Hospital,Thomas Rowland,2023-12-18,2023-12-22,7554.0,No,Kennedyborough,109/82,106
+559,Brandon Johnson,34,Male,COVID-19,Medication,St. Mary’s Clinic,Karen Parker,2024-03-17,,881.42,Yes,Lopezburgh,102/72,86
+560,Rebecca Gonzales,60,Female,Obesity,Medication,City Hospital,Loretta Nichols,2023-03-10,2023-03-25,2764.17,Yes,Jeremybury,91/89,109
+561,Nicholas Mccarthy,61,Other,Cancer,Therapy,HealthCare Center,Michael Shelton,2024-11-24,2024-12-13,2397.94,No,Longmouth,116/68,56
+562,Mrs. Katie Murphy,32,Male,Obesity,Medication,St. Mary’s Clinic,Jon Hutchinson,2023-03-11,2023-03-24,4491.2,Yes,Stevenshire,126/66,92
+563,Charles Thomas,57,Male,Cancer,Lifestyle Change,HealthCare Center,Alexandra Sherman,2023-11-09,,1258.62,No,New Janet,101/94,62
+564,Judy Bailey,4,Female,Obesity,Observation,General Hospital,James Montoya,2025-01-18,2025-01-29,5609.28,Yes,Houstonmouth,135/84,67
+565,David Anthony,96,Other,Obesity,Therapy,St. Mary’s Clinic,Zachary Carroll,2024-10-18,2024-10-26,5995.88,Yes,West Isaiahview,154/90,92
+566,Michelle Johnson,55,Male,Obesity,Surgery,General Hospital,James Kim,2024-05-22,2024-05-29,6791.77,No,Lake Matthewland,142/60,96
+567,Debra Cochran,3,Other,Flu,Surgery,Sunrise Hospital,Joseph Murray,2024-12-22,,8949.52,Yes,Port Rodney,126/100,89
+568,Melinda Young,88,Other,COVID-19,Lifestyle Change,St. Mary’s Clinic,William Brown,2023-10-01,2023-10-15,9286.93,No,Jonesland,131/81,93
+569,Barbara Hayes,7,Female,Asthma,Surgery,Sunrise Hospital,Morgan Reeves,2023-04-18,2023-04-23,9467.65,No,New Amandaport,136/71,109
+570,Ms. Lauren Walsh,81,Female,Asthma,Therapy,St. Mary’s Clinic,Sandra Bird,2024-06-23,2024-07-12,8938.47,Yes,Lake Nathanielhaven,90/60,89
+571,Michael Estes,92,Female,Hypertension,Medication,St. Mary’s Clinic,Julia Sims,2024-09-29,2024-09-30,7397.41,No,New Vanessa,142/89,83
+572,David Simpson MD,60,Female,Flu,Medication,St. Mary’s Clinic,Carolyn Solis,2023-02-27,2023-03-16,8746.39,No,Lake Luis,125/87,85
+573,Johnny Fowler,7,Female,Heart Disease,Therapy,General Hospital,Samantha Rodriguez,2024-12-28,2024-12-29,9802.13,No,Jamesstad,121/92,104
+574,Matthew Hernandez,67,Male,Diabetes,Observation,City Hospital,Krista Stanley,2023-06-16,2023-07-04,7685.57,No,Michaelburgh,153/97,63
+575,Colleen Ramirez,60,Other,Migraine,Surgery,HealthCare Center,Peter Miller,2023-06-04,2023-06-13,1515.81,Yes,North Raymondside,128/61,51
+576,Kathleen Gonzales,26,Male,COVID-19,Lifestyle Change,Sunrise Hospital,Tracy Beck,2023-03-07,2023-03-23,1377.0,No,Port Samuelberg,132/87,103
+577,Brandy Pena,16,Other,Asthma,Lifestyle Change,City Hospital,Nancy Day,2024-05-14,2024-06-01,9306.55,Yes,West Elizabeth,158/91,62
+578,Dr. Eric Cole,56,Female,Allergy,Lifestyle Change,General Hospital,Hannah Young,2024-09-30,,1691.53,Yes,North Jessicaland,90/98,60
+579,Kathleen Bailey,42,Male,Flu,Observation,Sunrise Hospital,Christine Wilson,2023-04-13,,9182.47,Yes,Scottchester,123/65,95
+580,Tamara White,5,Other,Migraine,Surgery,Sunrise Hospital,Bradley Odonnell,2024-12-22,2025-01-07,8601.94,Yes,South Veronicaton,136/62,71
+581,William Johnson,17,Male,Allergy,Therapy,HealthCare Center,Justin Mann,2025-02-15,,5099.18,Yes,Wallaceshire,111/92,96
+582,Dr. Eric Young,66,Other,Heart Disease,Lifestyle Change,City Hospital,Brian Hutchinson,2024-09-18,2024-09-25,4577.97,Yes,Dawnfort,146/96,87
+583,Amanda Payne,21,Male,Asthma,Medication,General Hospital,Brandon Valenzuela,2023-04-06,2023-04-22,4196.1,No,South Staceymouth,90/93,55
+584,Patrick Cochran,63,Female,Flu,Medication,HealthCare Center,Katherine Butler,2024-06-03,,9079.48,No,West Doris,146/69,61
+585,Melinda Johns,99,Other,Asthma,Observation,City Hospital,Laura Mullen,2023-06-27,,7922.14,Yes,South Eric,144/73,82
+586,James Pratt,52,Female,Diabetes,Surgery,Sunrise Hospital,Katrina Maddox,2025-01-06,2025-01-07,9191.17,No,New Danielleport,152/96,75
+587,Ashley Rush,85,Male,Migraine,Lifestyle Change,City Hospital,Jay Morgan,2023-05-10,2023-05-15,9637.1,No,West Toni,96/79,66
+588,Matthew Richards,98,Male,COVID-19,Observation,General Hospital,Kara Acosta,2024-01-11,2024-01-27,8757.72,No,Ortegashire,98/87,110
+589,Randall Smith,67,Male,Allergy,Observation,City Hospital,Pamela Duncan,2024-12-15,2024-12-27,6072.46,Yes,New Kevinfurt,138/84,68
+590,Michael Best,71,Male,Flu,Therapy,General Hospital,Louis Williams,2024-04-06,2024-04-08,9217.01,No,Port Ryanfort,115/78,78
+591,Kaitlin Morris,47,Female,Heart Disease,Lifestyle Change,General Hospital,Lori Stewart,2023-10-11,2023-10-28,3814.38,No,East Tracie,95/63,83
+592,Carly Gordon,47,Male,Hypertension,Medication,Sunrise Hospital,Danielle Bryant,2025-01-13,2025-01-31,5269.35,Yes,Garyborough,147/73,98
+593,Brenda Melton,58,Female,Obesity,Medication,HealthCare Center,William Lopez,2023-08-25,2023-09-10,9022.16,Yes,Summersmouth,138/85,59
+594,Nicole Smith,32,Other,Heart Disease,Surgery,City Hospital,Monica Rivera MD,2024-02-07,,5278.22,No,Wilsonbury,105/90,62
+595,Mitchell Bennett,84,Male,Cancer,Observation,City Hospital,Jesse Jordan,2024-01-11,,3717.71,Yes,South Calvinmouth,134/64,90
+596,Evelyn Leonard,31,Male,Flu,Medication,General Hospital,Anthony Woods,2023-06-24,2023-07-03,6552.47,No,East Lindsay,128/65,103
+597,Brittany Robinson,95,Female,Diabetes,Lifestyle Change,HealthCare Center,Crystal Velasquez,2023-08-19,2023-09-04,9590.64,Yes,East Sherrichester,146/77,108
+598,Ronald Johnson,52,Other,Asthma,Therapy,General Hospital,Ryan Moore,2025-01-17,2025-02-06,8686.94,Yes,Campbellstad,117/66,61
+599,Connie Chung,98,Male,COVID-19,Medication,General Hospital,Donna Rodriguez,2025-01-07,2025-01-16,8787.78,No,New Kelsey,92/69,74
+600,Allison Herrera,44,Male,Flu,Therapy,HealthCare Center,Melanie Nelson,2023-12-03,2023-12-20,4581.61,No,Sabrinaland,147/75,71
+601,Leslie Mueller,68,Female,Heart Disease,Surgery,HealthCare Center,Jermaine Mooney,2025-01-12,,640.72,No,Christopherburgh,135/75,86
+602,Dana Erickson,86,Female,Diabetes,Medication,Sunrise Hospital,Michelle Vargas,2024-04-21,2024-05-06,2015.31,No,Deannachester,105/92,50
+603,Bailey Baker,41,Other,Cancer,Therapy,City Hospital,Maria Robinson,2024-03-18,2024-03-24,2985.06,Yes,Michaelbury,97/92,84
+604,Michael Hernandez,25,Male,Asthma,Observation,Sunrise Hospital,Anthony Moore,2024-03-15,2024-03-22,551.12,No,Millertown,141/96,100
+605,Peter Reynolds,97,Female,Heart Disease,Lifestyle Change,St. Mary’s Clinic,Lauren Higgins,2023-02-28,,3816.1,No,Taylormouth,154/67,105
+606,Monica Payne,63,Male,Hypertension,Therapy,St. Mary’s Clinic,Vincent Short,2025-01-01,2025-01-16,2081.45,Yes,West Ambershire,93/84,89
+607,Luis Rich,80,Male,Hypertension,Lifestyle Change,Sunrise Hospital,Teresa Atkinson,2024-04-18,2024-04-22,1942.5,No,Joemouth,160/70,61
+608,Kristin Medina,45,Female,Obesity,Observation,HealthCare Center,Samuel Stone,2023-12-20,,8326.69,Yes,Sweeneyshire,141/61,101
+609,Michael Medina,86,Other,Diabetes,Therapy,Sunrise Hospital,James Holder,2023-04-21,,6363.3,Yes,West Steven,93/87,59
+610,Kevin Trujillo,72,Male,Cancer,Medication,Sunrise Hospital,Emily Fisher,2024-10-17,2024-10-31,5934.54,Yes,North Mollytown,155/69,97
+611,Richard Henson,81,Male,Migraine,Surgery,City Hospital,Lindsay Wilson,2023-03-13,,7312.39,Yes,Robinburgh,109/79,50
+612,Calvin Norris,70,Male,Asthma,Observation,General Hospital,Jeremy Moore,2024-02-07,2024-02-19,592.01,Yes,West Lori,118/71,76
+613,Wesley Oliver,86,Female,Heart Disease,Lifestyle Change,HealthCare Center,Jerry Kidd,2023-03-29,2023-04-15,4084.03,No,Edwardsport,122/73,79
+614,Aaron Cobb,34,Other,COVID-19,Observation,City Hospital,Ashley Roach,2023-10-08,2023-10-22,3246.93,No,Port Anne,136/87,104
+615,Janice Payne,82,Female,Hypertension,Therapy,Sunrise Hospital,Jason Moon,2024-05-26,2024-05-27,7667.4,Yes,Richardbury,107/89,85
+616,Andrea Spears,52,Other,Heart Disease,Lifestyle Change,HealthCare Center,Dawn Jenkins,2025-02-21,,7824.13,Yes,Jenniferburgh,125/91,102
+617,Craig Sparks,69,Female,Flu,Lifestyle Change,Sunrise Hospital,Stephen Spears,2023-05-31,2023-06-17,2726.19,No,Danaburgh,92/64,101
+618,Jill Young,49,Female,COVID-19,Therapy,General Hospital,Kimberly Guerrero,2023-04-08,2023-04-19,8082.19,Yes,Sandersview,160/90,94
+619,Russell King,28,Male,Asthma,Lifestyle Change,HealthCare Center,Carly Mcmillan,2023-06-19,,7947.77,Yes,West Stephanie,154/76,57
+620,Oscar Williams,31,Female,Diabetes,Therapy,General Hospital,James Rogers,2024-06-10,2024-06-19,6155.44,Yes,Port Hollyport,98/63,91
+621,Daniel Richardson,12,Male,COVID-19,Medication,HealthCare Center,Lauren Williams,2023-04-12,2023-04-17,7430.46,No,Lake James,91/80,70
+622,Dr. Melody Simpson,9,Other,Diabetes,Medication,St. Mary’s Clinic,Shawn Weaver,2024-08-06,,9282.95,Yes,Port Matthewberg,129/61,55
+623,Brian Costa,40,Male,Hypertension,Surgery,St. Mary’s Clinic,Lori Thornton,2024-03-22,2024-04-11,1100.56,Yes,Port Lisa,119/76,51
+624,Ronald Flores,48,Female,Cancer,Therapy,General Hospital,Sarah Burke,2023-12-05,2023-12-24,5118.26,Yes,Gregfurt,135/91,91
+625,Jennifer Thomas,84,Male,Migraine,Observation,City Hospital,James Myers,2023-06-20,2023-06-27,7791.26,Yes,North Steven,134/75,54
+626,Scott Garcia,9,Male,Flu,Medication,City Hospital,Tyler Lewis,2023-06-18,2023-07-08,174.43,Yes,Christophertown,130/65,106
+627,Aaron Hahn,57,Other,Allergy,Observation,City Hospital,Thomas Ross,2023-10-22,2023-11-11,4183.98,Yes,East Mary,131/74,104
+628,Taylor Holt,44,Female,COVID-19,Therapy,General Hospital,Erica Hunter,2025-01-07,2025-01-20,6842.34,No,Mooreberg,130/66,52
+629,Kristine Taylor,66,Other,Allergy,Surgery,St. Mary’s Clinic,Amanda Graves,2024-03-16,,2455.36,Yes,East Christopher,160/61,79
+630,Brian Aguilar,72,Female,Diabetes,Lifestyle Change,Sunrise Hospital,Alexander Brewer,2024-01-29,,9908.43,No,West Deannachester,102/87,102
+631,Angela Joseph,43,Other,Cancer,Lifestyle Change,Sunrise Hospital,Edward Mccormick,2023-06-29,2023-07-07,5050.06,No,Andersonshire,116/95,73
+632,Ashley Stevens,85,Other,Flu,Observation,HealthCare Center,Juan Hernandez,2024-01-08,,9591.97,No,Robertbury,95/64,84
+633,Kristopher Thomas,38,Other,Heart Disease,Observation,HealthCare Center,Richard Houston,2023-07-26,2023-07-29,9052.7,No,Myerschester,129/90,76
+634,Christine Bowman,83,Female,Allergy,Surgery,General Hospital,Jordan Jacobs,2024-10-10,2024-10-23,1076.26,Yes,Fostermouth,94/84,76
+635,Calvin Carter,59,Female,Migraine,Surgery,General Hospital,Victoria Henderson,2024-05-13,,8377.33,No,Lake Emily,111/70,56
+636,Jesse Morris,53,Female,Flu,Therapy,General Hospital,Michael Stewart,2024-10-08,2024-10-13,364.59,Yes,Stewartport,137/95,54
+637,Kim Reeves,50,Other,COVID-19,Observation,City Hospital,Bobby Cohen,2024-10-23,,2341.33,No,Kristenburgh,106/100,84
+638,David Martinez,21,Male,Flu,Medication,St. Mary’s Clinic,Carlos Mack,2024-03-12,2024-03-26,6717.44,Yes,Parkerfort,108/89,95
+639,James Pearson,60,Male,Flu,Medication,General Hospital,Tiffany Matthews,2023-05-16,,1990.26,Yes,West Katherinechester,138/85,70
+640,Laura Vaughn,61,Female,Heart Disease,Lifestyle Change,St. Mary’s Clinic,Kimberly Hernandez,2024-02-21,,5515.07,No,Garciaview,117/100,85
+641,Edward Jackson,75,Female,Migraine,Surgery,General Hospital,Mary Leon,2024-11-09,2024-11-11,1398.04,Yes,North Elizabethberg,119/69,58
+642,Joshua Gregory,18,Female,Asthma,Surgery,Sunrise Hospital,Jamie Powell,2023-12-22,2023-12-29,9633.61,Yes,South Dawn,130/77,105
+643,Bernard Woodard,57,Male,Cancer,Surgery,General Hospital,Christian Carter,2023-05-14,2023-05-16,3493.2,No,Smithburgh,156/94,97
+644,Carolyn Velasquez,11,Other,Allergy,Therapy,Sunrise Hospital,Chad Gross,2024-03-15,2024-03-23,1365.5,Yes,West Alexandra,99/78,83
+645,Michael Myers,56,Female,Cancer,Therapy,City Hospital,Daisy Buckley,2024-08-13,2024-09-02,8149.28,Yes,Carloshaven,122/77,62
+646,John Russell,90,Female,Obesity,Lifestyle Change,HealthCare Center,Tanya Kramer,2023-09-02,2023-09-19,7733.11,No,South Madisonfort,133/62,54
+647,Joseph Marshall,26,Female,Diabetes,Surgery,General Hospital,Melissa Gutierrez,2024-05-04,2024-05-11,1649.23,Yes,New Charlenestad,100/65,90
+648,Lauren Lowe,26,Other,Cancer,Medication,General Hospital,Stephanie Guzman,2023-03-01,2023-03-13,2980.63,Yes,New Kaylaview,95/60,63
+649,Thomas Jones,83,Other,Migraine,Surgery,City Hospital,Tracie Gray,2024-07-13,,8632.16,No,Jasonton,122/94,67
+650,Nicole Jensen,32,Female,Obesity,Medication,City Hospital,Samantha Tate,2023-09-09,2023-09-24,5631.53,No,Brittanyburgh,155/91,95
+651,John Fuller,63,Female,Heart Disease,Therapy,St. Mary’s Clinic,Charles Mays,2024-11-24,2024-12-05,6888.92,No,Moraleston,120/85,77
+652,Chloe Stephenson,6,Other,COVID-19,Surgery,General Hospital,Carlos Roberson,2024-09-11,2024-09-27,3589.59,Yes,Scottfort,103/90,73
+653,Donna Parker,5,Other,COVID-19,Medication,City Hospital,Anthony Sullivan,2024-02-09,2024-02-21,7147.05,No,West Jenniferchester,151/82,95
+654,Scott Moore,98,Male,Allergy,Observation,St. Mary’s Clinic,Richard Mcgee,2023-05-05,2023-05-06,7123.4,No,Higginsstad,112/81,55
+655,Stephanie Williams,70,Female,Asthma,Observation,City Hospital,Christine Jacobs,2023-09-23,2023-09-29,9387.24,No,Port George,157/83,55
+656,Trevor Reyes,87,Male,Heart Disease,Therapy,Sunrise Hospital,Jessica Booth,2023-10-02,2023-10-13,146.89,No,Benjaminhaven,136/75,79
+657,Emma Wood,98,Female,COVID-19,Medication,General Hospital,Glenn Evans,2023-10-12,2023-10-24,3531.99,No,Lake Waltermouth,146/71,64
+658,Shannon Fox,86,Male,Heart Disease,Lifestyle Change,St. Mary’s Clinic,Victoria Bradley,2024-07-08,2024-07-13,3861.44,Yes,Lake Kristenmouth,153/94,107
+659,Samantha Durham,86,Male,Diabetes,Lifestyle Change,Sunrise Hospital,Sarah Boone,2023-05-07,2023-05-18,4627.79,Yes,East Maria,137/90,106
+660,Brianna Morris,72,Other,Asthma,Lifestyle Change,City Hospital,Charles Webb,2024-11-07,,2128.66,No,Helenborough,120/80,90
+661,Michael Wilkinson,31,Male,Hypertension,Lifestyle Change,City Hospital,Jeremy Aguirre,2024-05-03,,9500.51,Yes,Frankport,141/84,83
+662,Melinda Gutierrez,54,Other,Migraine,Observation,St. Mary’s Clinic,Lisa Brown,2024-07-28,,4217.64,No,Lake Jason,91/79,76
+663,Christopher Bell,79,Male,Heart Disease,Medication,City Hospital,Jacob Young,2023-04-23,,4889.74,Yes,Sabrinaberg,104/74,82
+664,Brenda Dyer,55,Male,Allergy,Lifestyle Change,General Hospital,Ashley Williams,2024-04-02,2024-04-03,7486.71,Yes,Port Nancy,147/81,98
+665,Albert Acosta,68,Female,Hypertension,Therapy,Sunrise Hospital,Bobby Valenzuela,2023-08-23,2023-09-09,2535.66,Yes,Elizabethhaven,90/73,80
+666,Alexis Bradley,68,Male,Obesity,Therapy,General Hospital,James Boyer,2023-04-21,2023-05-04,4162.06,No,Petersonport,118/94,88
+667,Amy Martinez,10,Female,Migraine,Medication,City Hospital,Monica Hicks,2024-10-04,,466.65,Yes,Christopherborough,134/68,87
+668,Brian Sanders,98,Female,COVID-19,Lifestyle Change,HealthCare Center,Angela Allen,2023-04-05,2023-04-15,1868.86,Yes,West Justin,151/83,105
+669,Courtney Wyatt,57,Other,Hypertension,Surgery,Sunrise Hospital,Dana Nash,2024-06-28,2024-07-16,8522.72,Yes,East Kendrachester,129/81,65
+670,Misty Harrison,38,Male,Flu,Lifestyle Change,City Hospital,Phyllis Jacobson,2024-08-06,2024-08-14,2623.97,Yes,East Josehaven,120/93,82
+671,Curtis Collier,4,Male,Heart Disease,Medication,General Hospital,Heather Miller MD,2024-07-28,2024-08-17,6847.28,Yes,East Lisaport,157/85,92
+672,David Reyes,23,Male,Allergy,Lifestyle Change,St. Mary’s Clinic,Curtis Gallagher,2023-08-26,2023-09-14,7715.46,Yes,Gonzalezview,114/65,50
+673,Antonio Rose,30,Other,Allergy,Therapy,City Hospital,Chase Bell III,2025-02-17,,116.28,No,East Jack,113/93,110
+674,Nathaniel Miller,61,Female,COVID-19,Observation,Sunrise Hospital,Danielle Reynolds,2023-05-02,,9449.54,Yes,Nancychester,95/70,85
+675,Jamie Conley,60,Female,Asthma,Surgery,St. Mary’s Clinic,Michael Fox,2024-10-14,,4637.65,No,Natalieton,139/100,62
+676,Gabriel Graham,86,Other,Hypertension,Medication,Sunrise Hospital,Robin Hayes,2023-09-18,2023-09-26,255.97,Yes,Lake Logan,143/80,53
+677,Pamela Scott,34,Male,Heart Disease,Observation,HealthCare Center,Richard Jackson,2024-07-13,,6347.71,Yes,North Amandafort,158/62,77
+678,Anthony Vazquez,80,Male,Cancer,Therapy,Sunrise Hospital,Robert Walker,2023-06-05,2023-06-18,9237.62,No,Brendachester,152/97,107
+679,Todd Davis,79,Male,Asthma,Therapy,Sunrise Hospital,Christina Sullivan,2023-08-07,,1826.81,Yes,Bakermouth,96/74,88
+680,Nancy Anderson,98,Female,Asthma,Observation,City Hospital,Wanda Smith,2024-09-15,2024-09-16,1295.1,No,Brownport,133/82,61
+681,Joyce Rogers,55,Other,Hypertension,Lifestyle Change,City Hospital,Mark Myers,2024-06-18,2024-06-19,3490.09,No,Laurieburgh,136/63,98
+682,Sandra Fisher,2,Male,Cancer,Observation,St. Mary’s Clinic,Benjamin Mcdaniel MD,2023-06-09,2023-06-16,6070.96,No,West Markshire,139/82,78
+683,Marcus Thomas,31,Female,Cancer,Lifestyle Change,General Hospital,John Horne,2024-07-21,2024-08-08,5398.96,No,Melissaville,131/70,103
+684,Christopher Franklin,96,Other,Hypertension,Medication,St. Mary’s Clinic,Rachel Melton,2025-01-19,2025-01-21,5452.28,Yes,East Angelabury,100/82,90
+685,Michael Lopez,83,Male,Diabetes,Surgery,St. Mary’s Clinic,Michael Berry PhD,2024-12-24,2025-01-07,8243.62,No,West Brian,130/76,85
+686,Stefanie Smith,92,Male,Heart Disease,Lifestyle Change,General Hospital,Nathan Smith DVM,2023-11-24,2023-11-30,6514.38,No,Lake Johnny,127/76,74
+687,Veronica Rivera,58,Female,Asthma,Medication,Sunrise Hospital,Cassidy Carter,2023-08-22,2023-08-27,8400.27,Yes,Lake Amanda,93/61,101
+688,Willie Rubio,33,Other,Obesity,Lifestyle Change,St. Mary’s Clinic,Charlene Goodwin,2024-08-28,2024-09-13,6946.39,Yes,Laurenfort,160/83,107
+689,Kimberly Lee,2,Female,Diabetes,Surgery,St. Mary’s Clinic,Alyssa Brown,2024-03-22,,6329.17,Yes,North Josephfurt,147/66,93
+690,Tammy Gonzalez,80,Other,Migraine,Therapy,General Hospital,Deborah Hughes,2023-04-15,,3266.57,No,Waynemouth,135/95,62
+691,Eric Trujillo,63,Female,Heart Disease,Lifestyle Change,Sunrise Hospital,Shawn Smith,2023-10-30,2023-11-05,418.42,No,North Karenbury,128/98,110
+692,Marilyn Shepherd,90,Male,Cancer,Medication,Sunrise Hospital,Andrea Fisher,2024-08-03,2024-08-20,9478.29,No,South Alicia,109/78,86
+693,Julia Espinoza,41,Male,Migraine,Lifestyle Change,Sunrise Hospital,Kenneth Anderson,2024-03-22,2024-04-08,3097.34,No,Port Mary,138/84,89
+694,Spencer Martin,50,Female,Allergy,Medication,HealthCare Center,Alexander Taylor,2024-02-25,,9114.98,No,North Rogerhaven,160/86,58
+695,Kathleen Garcia,91,Other,Asthma,Surgery,General Hospital,Patrick Castillo,2024-06-04,2024-06-08,1975.35,No,West Samantha,122/94,98
+696,Yesenia Nichols,88,Female,Cancer,Observation,HealthCare Center,Michael Romero PhD,2023-03-23,2023-03-31,7821.19,No,Port Anthonyport,152/68,88
+697,Michael Johnson,8,Female,Heart Disease,Therapy,St. Mary’s Clinic,Daniel Myers,2024-06-16,,4293.77,No,New Heather,144/81,86
+698,William Smith,38,Other,Obesity,Surgery,City Hospital,Dr. Kevin Callahan,2024-07-23,2024-08-03,292.5,Yes,New Valeriechester,112/90,82
+699,Jessica Scott,14,Male,Flu,Observation,St. Mary’s Clinic,Shane Lewis,2023-03-17,2023-03-25,8619.16,No,New Brittanychester,144/96,87
+700,Jennifer Bauer,69,Other,Obesity,Observation,General Hospital,Alicia Townsend,2024-02-22,,8942.01,No,Port Johnmouth,148/60,108
+701,Felicia Hall,8,Female,Diabetes,Medication,HealthCare Center,Stephanie Townsend,2024-06-13,,3472.46,No,West Christinachester,155/86,73
+702,Melissa Johnson,18,Male,Cancer,Therapy,HealthCare Center,Stacy Hancock,2024-07-07,2024-07-09,6849.26,No,Teresafurt,155/84,92
+703,Eric Miller,73,Male,Obesity,Surgery,HealthCare Center,Brian Hill,2023-07-08,2023-07-10,4200.7,No,West Allenport,115/86,93
+704,Cynthia Chan DVM,93,Other,COVID-19,Medication,St. Mary’s Clinic,Emma Contreras,2024-11-20,2024-11-29,6977.4,No,Lake Christinaville,129/94,99
+705,Natalie Edwards,17,Female,Flu,Therapy,St. Mary’s Clinic,Jennifer Larsen,2024-10-29,2024-10-31,8615.68,No,Wellston,143/75,63
+706,Brett Salas,30,Other,COVID-19,Lifestyle Change,General Hospital,Michael Morales,2025-02-09,2025-02-23,6965.71,No,Deanbury,140/96,83
+707,Paul Phillips,41,Female,Asthma,Therapy,General Hospital,Mark Kennedy,2024-09-15,2024-09-30,6470.33,No,New Kimberlyhaven,125/66,91
+708,Ariel Davis,12,Other,Heart Disease,Observation,General Hospital,Connie Gonzalez,2024-12-23,,2151.5,No,Dianeborough,100/96,100
+709,Nicholas Fritz,69,Female,Heart Disease,Observation,Sunrise Hospital,Eric Nelson,2024-02-27,2024-03-04,7043.18,Yes,Nataliehaven,159/96,53
+710,John Reese,85,Other,Asthma,Lifestyle Change,General Hospital,Diana Phelps,2025-01-16,2025-01-26,3707.51,Yes,Evansstad,105/63,76
+711,Kimberly Bradshaw,14,Male,Cancer,Surgery,City Hospital,Andrew Reynolds,2023-04-02,2023-04-13,6084.77,Yes,North Angelatown,147/66,85
+712,Jeffrey Morris,17,Female,Hypertension,Therapy,St. Mary’s Clinic,Kathryn Lopez,2025-01-03,2025-01-17,3856.79,Yes,Joneschester,108/92,52
+713,Mckenzie Oconnor,98,Other,Obesity,Lifestyle Change,St. Mary’s Clinic,James Fuentes,2024-02-14,2024-03-04,9582.15,No,East Leslie,128/82,73
+714,Rhonda Ward MD,40,Female,Heart Disease,Therapy,General Hospital,Elizabeth Wolfe,2023-03-12,2023-03-26,9860.18,Yes,Mayofurt,159/93,73
+715,Dennis Williams,29,Other,Migraine,Lifestyle Change,HealthCare Center,Charles Harper,2024-02-27,2024-02-28,4866.25,No,Brownstad,142/73,63
+716,Angela Jordan,24,Male,Heart Disease,Therapy,HealthCare Center,David Davis,2023-10-08,,8541.68,Yes,Brianton,145/100,54
+717,Alexander Taylor,80,Other,Flu,Surgery,St. Mary’s Clinic,Erika Mitchell,2024-08-07,2024-08-18,6693.92,Yes,North Denise,129/89,68
+718,Dawn Day,59,Female,Cancer,Surgery,St. Mary’s Clinic,Troy Martin,2024-03-16,2024-03-19,1875.44,No,North Derrickburgh,129/74,56
+719,Taylor Banks,20,Male,Diabetes,Medication,Sunrise Hospital,Jennifer Nguyen,2023-05-18,2023-06-01,9171.43,No,Tuckerside,125/71,59
+720,Brenda Watson,89,Male,Obesity,Lifestyle Change,Sunrise Hospital,Brandon Kim,2024-08-24,2024-09-09,3513.0,No,Jacksonfurt,148/63,100
+721,Taylor Barry,35,Other,Allergy,Lifestyle Change,General Hospital,Kristina George,2023-07-22,2023-07-30,3052.99,Yes,Lake Phillipside,151/69,59
+722,Stephen Parrish,69,Female,Asthma,Therapy,St. Mary’s Clinic,Michelle Price,2024-09-12,,3736.31,Yes,East Vanessamouth,118/85,92
+723,Jennifer Levine,74,Other,Flu,Therapy,General Hospital,Sydney Howard,2024-01-26,2024-01-28,4803.55,No,East Courtney,106/68,59
+724,Mackenzie Kim,23,Other,Allergy,Surgery,HealthCare Center,Elizabeth Davis,2024-03-22,2024-03-23,949.23,No,Davidview,115/74,50
+725,Amanda Ellis,36,Other,COVID-19,Observation,St. Mary’s Clinic,Kimberly Lee,2023-12-24,2024-01-12,2375.71,Yes,Port Richardmouth,105/64,97
+726,Michael Wallace,12,Female,Asthma,Surgery,HealthCare Center,Elizabeth Mckee,2023-10-21,2023-10-22,3410.63,No,Courtneyton,108/75,55
+727,Barbara Petty,57,Male,Heart Disease,Therapy,Sunrise Hospital,Michael Mitchell,2024-11-20,2024-11-27,1393.39,Yes,West Danielport,128/62,85
+728,Melanie Robertson,21,Male,Heart Disease,Medication,Sunrise Hospital,Gary Lloyd,2023-08-06,2023-08-18,1646.62,Yes,Richardburgh,101/71,92
+729,Keith West,61,Other,Diabetes,Therapy,City Hospital,Douglas Miller,2023-05-15,2023-05-18,3124.0,No,East Jonathanbury,138/61,83
+730,Joseph Graves MD,70,Male,Allergy,Therapy,St. Mary’s Clinic,Wendy Gillespie,2024-01-16,2024-02-01,8073.07,Yes,Elizabethborough,122/74,57
+731,Susan Nunez,83,Male,Allergy,Observation,Sunrise Hospital,Jennifer Fisher,2024-08-29,2024-09-12,1975.85,Yes,Stephenmouth,153/71,79
+732,Nicole Cook,40,Female,Asthma,Therapy,Sunrise Hospital,Catherine Munoz,2024-10-04,2024-10-07,9114.92,Yes,Websterport,100/82,94
+733,Susan Moyer,15,Other,COVID-19,Surgery,St. Mary’s Clinic,Angela Carter,2023-04-20,2023-05-09,8561.9,Yes,North Joshua,99/96,76
+734,Patrick Harris,93,Other,Flu,Surgery,City Hospital,Nancy Christensen,2024-09-19,2024-09-25,2148.69,Yes,Davishaven,127/94,69
+735,Jeffrey Martin,67,Male,Allergy,Lifestyle Change,City Hospital,Felicia Vargas,2024-12-03,2024-12-16,8725.37,Yes,Rasmussenchester,143/97,57
+736,Tammy Gallagher,89,Male,Hypertension,Observation,Sunrise Hospital,Jose Stark,2024-10-19,2024-10-30,8254.64,No,Johnview,119/66,105
+737,James Griffin,47,Female,Asthma,Observation,HealthCare Center,Zachary Rodriguez,2024-07-09,2024-07-20,7260.55,No,Holmesview,145/73,57
+738,Jacob Johnson,51,Other,Migraine,Surgery,General Hospital,Jill Robinson,2023-05-24,2023-06-11,9166.55,No,Kennethshire,132/85,103
+739,Heather Avila,67,Male,Asthma,Surgery,General Hospital,Nicole Patterson,2023-09-19,2023-10-02,7898.07,No,Karenshire,147/85,91
+740,Brittany Camacho,13,Other,Migraine,Observation,City Hospital,Linda Arroyo DDS,2024-07-23,2024-07-30,4519.71,No,Annshire,110/74,72
+741,Michael Munoz,39,Male,Hypertension,Therapy,General Hospital,Laura Lopez,2024-05-27,2024-06-08,4980.68,Yes,Jacobville,158/73,58
+742,Chad French,32,Female,Cancer,Surgery,City Hospital,Brandon Mckinney,2023-12-21,2023-12-26,1605.38,Yes,Carlosview,153/75,82
+743,Christopher Hernandez,64,Other,Allergy,Lifestyle Change,City Hospital,Alexander Bradley,2023-08-06,2023-08-21,4714.2,No,Carrilloland,134/75,76
+744,Theodore Brewer,65,Female,Obesity,Lifestyle Change,Sunrise Hospital,Anthony Carroll,2024-05-03,2024-05-23,6167.09,Yes,South Brookemouth,96/70,107
+745,Dorothy Palmer,2,Female,Flu,Medication,HealthCare Center,Sandra Stewart,2024-03-04,2024-03-10,1973.56,No,Leeview,103/92,96
+746,Teresa Hall,93,Male,Flu,Lifestyle Change,City Hospital,Adriana Guerra MD,2024-04-01,2024-04-02,2864.02,No,New Christopher,102/69,109
+747,Miss Amy Marshall,46,Other,Allergy,Lifestyle Change,General Hospital,Ann Montgomery,2024-05-13,2024-05-27,4568.1,Yes,Lake Matthew,111/68,98
+748,Daniel Mcknight,56,Male,Allergy,Observation,General Hospital,Shelby Gardner,2024-08-31,,1088.28,Yes,North Seanbury,96/84,72
+749,Jacob Maddox,89,Female,Diabetes,Therapy,Sunrise Hospital,Tracy Ferguson,2023-04-25,2023-05-09,9398.78,No,New Victoria,108/96,81
+750,Benjamin Riley,74,Female,Hypertension,Medication,City Hospital,Wesley Moore,2024-12-10,,9658.62,Yes,Lake Miguel,109/91,86
+751,Alexander Shields,16,Female,COVID-19,Lifestyle Change,General Hospital,Megan Gamble,2024-03-09,2024-03-21,6758.56,No,Tinatown,109/86,75
+752,Andrew Garcia,1,Other,Asthma,Therapy,City Hospital,Andre Davies,2024-07-18,2024-07-28,5524.0,Yes,Kerrymouth,107/73,110
+753,Crystal Anderson,81,Other,Heart Disease,Therapy,General Hospital,Christian Berry,2024-07-16,2024-07-19,7649.57,Yes,Vincentstad,151/74,78
+754,Donna Carter,99,Male,Asthma,Observation,Sunrise Hospital,Jamie Franco,2024-01-14,2024-02-01,7934.92,Yes,Meyerton,119/68,88
+755,Mario Yates,95,Female,Hypertension,Therapy,City Hospital,Javier Montgomery,2023-03-12,2023-03-24,4365.24,No,South Joseph,108/77,78
+756,Matthew Williams,24,Other,Heart Disease,Observation,General Hospital,John Wyatt,2024-08-23,2024-08-31,484.7,Yes,Hillland,150/65,54
+757,Cristina Leon,96,Female,Allergy,Observation,City Hospital,Beverly Gomez,2023-05-21,,1147.13,No,East Hannah,144/88,70
+758,Catherine Fernandez,14,Other,COVID-19,Therapy,City Hospital,Jessica Barnes,2023-03-08,2023-03-11,1909.28,No,North Brittany,102/66,82
+759,Tammy Walker,41,Male,Hypertension,Lifestyle Change,HealthCare Center,Heather Garrett,2024-11-11,,9967.38,Yes,Port Colleenport,92/68,106
+760,Tanya Armstrong,19,Male,Cancer,Therapy,St. Mary’s Clinic,Kenneth Payne,2025-02-18,2025-02-25,2555.69,Yes,Jillland,127/82,104
+761,Kevin Vincent,35,Female,Flu,Observation,HealthCare Center,Ashley Thompson,2024-12-06,2024-12-12,4687.55,No,Lawrencefurt,92/68,107
+762,Bob Hancock,58,Male,Obesity,Medication,Sunrise Hospital,Heather Welch,2023-10-12,,8118.43,Yes,Lake Michael,122/100,68
+763,Erin Jensen,74,Other,Allergy,Medication,City Hospital,Veronica Franklin,2023-05-23,2023-06-06,893.97,Yes,Johnmouth,127/64,83
+764,Grace Robinson,75,Female,COVID-19,Observation,General Hospital,Michaela Alvarado,2023-09-28,,7184.76,No,Port Emilymouth,107/92,82
+765,Norma Cruz,4,Other,Hypertension,Surgery,General Hospital,Sydney Newton,2024-12-24,2025-01-01,1083.19,No,North Allison,110/66,96
+766,Adriana Williams,95,Other,Diabetes,Lifestyle Change,Sunrise Hospital,James Contreras,2023-03-24,2023-04-04,368.93,Yes,Hollybury,113/89,85
+767,Tina Johnson,51,Male,Flu,Observation,St. Mary’s Clinic,Angela Johnston,2025-01-18,2025-02-05,2334.21,No,Maloneland,158/95,105
+768,Jill Reese,79,Male,Diabetes,Therapy,HealthCare Center,Carlos Walton,2023-05-14,2023-05-31,5905.62,Yes,Gilbertshire,158/62,70
+769,Frederick Mitchell,31,Female,Heart Disease,Surgery,HealthCare Center,Carolyn Peck,2023-11-17,2023-11-23,2008.49,Yes,South Michaelborough,151/86,73
+770,Justin Schroeder,29,Male,Migraine,Surgery,HealthCare Center,David Bean,2023-06-27,,643.46,Yes,Rebeccaside,92/87,61
+771,Stephanie Sutton,3,Female,Flu,Therapy,St. Mary’s Clinic,Mr. Steven Reyes,2023-04-05,,9599.08,Yes,Lake Michaelmouth,128/97,59
+772,Joshua Anderson,1,Female,Allergy,Lifestyle Change,Sunrise Hospital,Desiree Morris,2023-12-09,2023-12-22,5569.2,Yes,Gordonchester,133/97,60
+773,Carlos Lester,10,Female,Migraine,Observation,Sunrise Hospital,Cassandra Hinton,2024-10-01,2024-10-16,3168.67,No,Matthewshire,98/64,83
+774,Jennifer Richardson,17,Female,COVID-19,Lifestyle Change,City Hospital,Emily Brown,2024-10-26,,9760.28,No,Port Williehaven,114/71,88
+775,Joshua Rose,92,Other,Migraine,Lifestyle Change,General Hospital,Melissa Mccann,2024-05-24,2024-06-08,1479.24,No,Avilaport,160/68,68
+776,Sonya Thompson,42,Male,Asthma,Observation,Sunrise Hospital,Angel Olsen,2024-03-31,,2811.99,No,Jeanneshire,130/86,75
+777,Ms. Jennifer Brown,22,Male,Allergy,Surgery,Sunrise Hospital,Albert Ross,2024-01-14,2024-01-27,5437.48,Yes,West Michelle,102/61,79
+778,Kathryn Rogers,61,Male,COVID-19,Medication,General Hospital,Angela Kelley,2024-02-09,2024-02-20,7010.99,No,Geneberg,122/62,52
+779,Danielle Daugherty,67,Male,Obesity,Lifestyle Change,HealthCare Center,Thomas Ritter,2024-02-13,2024-03-03,206.89,Yes,Corystad,103/63,102
+780,Linda Smith,86,Other,Cancer,Medication,General Hospital,Todd Bright,2024-09-27,2024-10-11,3877.49,No,West Michael,136/83,89
+781,Brandon Atkinson,77,Male,Migraine,Observation,City Hospital,Shawna Williams,2024-10-08,2024-10-21,7426.55,Yes,Lake Linda,154/83,96
+782,Daniel Li,6,Other,Flu,Surgery,HealthCare Center,Robert Adams,2023-06-15,,3513.58,Yes,Ellismouth,102/72,67
+783,Carrie Smith,15,Male,Obesity,Therapy,HealthCare Center,Kayla Brown,2023-04-04,2023-04-19,398.47,No,Jamietown,156/63,60
+784,Grace Black,15,Male,Cancer,Observation,General Hospital,Sean Ho,2024-05-31,2024-06-02,4827.73,Yes,South Veronica,152/92,93
+785,Kenneth Miller,93,Male,Obesity,Medication,HealthCare Center,Jade Anderson,2023-06-26,2023-07-05,1830.73,Yes,Sarastad,96/82,68
+786,Sandra Garza,92,Other,Flu,Surgery,City Hospital,Mark Hickman,2023-04-10,2023-04-18,1300.01,No,New Rita,157/87,96
+787,Beth Owens,36,Female,Diabetes,Surgery,City Hospital,Robin Cox,2023-11-20,2023-11-26,5732.65,No,South Nicole,93/62,50
+788,Melinda Fowler,82,Other,Asthma,Observation,City Hospital,Donald Gray,2024-11-16,2024-11-26,6338.45,Yes,Wilkersonchester,122/66,93
+789,Karen Dalton MD,39,Male,COVID-19,Surgery,General Hospital,Albert Hanson,2024-02-18,2024-02-26,2742.2,Yes,Josephstad,141/61,71
+790,Thomas Barr,48,Female,Obesity,Medication,Sunrise Hospital,Sylvia Lara,2024-04-11,2024-04-15,1424.68,No,Watersmouth,134/77,108
+791,Rachel Cole,38,Other,Hypertension,Observation,St. Mary’s Clinic,Michele Thompson,2023-12-13,2023-12-29,980.55,Yes,Lake Joshua,125/69,61
+792,Phillip Jordan,92,Other,Migraine,Observation,St. Mary’s Clinic,Jennifer Robinson,2025-01-12,2025-01-20,7143.66,Yes,Ortizhaven,121/61,88
+793,Robert Jackson,68,Other,Hypertension,Surgery,Sunrise Hospital,Mackenzie Myers,2025-01-28,2025-01-29,7993.1,Yes,South Hailey,156/98,92
+794,Christine Cervantes,32,Other,Obesity,Surgery,General Hospital,Rebecca Cobb,2023-02-25,2023-03-02,7860.22,Yes,Suzannechester,132/67,105
+795,Bruce Jacobs,37,Other,Obesity,Therapy,City Hospital,Tina Gonzalez,2024-08-27,,3258.78,No,New Stevenview,109/76,84
+796,Carlos Reeves,2,Male,Hypertension,Lifestyle Change,St. Mary’s Clinic,Shane Mann,2024-05-26,2024-05-27,1910.89,Yes,Rosariohaven,159/90,103
+797,Allison Berger,47,Female,Diabetes,Observation,City Hospital,David Lewis,2023-05-25,2023-06-09,7227.47,Yes,Phyllisburgh,107/60,93
+798,Daniel Whitehead,47,Male,Hypertension,Observation,Sunrise Hospital,William Parker,2024-02-12,2024-02-27,5356.13,Yes,Edwardside,121/67,75
+799,Amber Freeman,18,Female,Diabetes,Medication,HealthCare Center,Tina Silva,2025-02-01,2025-02-06,9057.33,Yes,Lake Matthewville,96/86,100
+800,Garrett Stone,1,Female,COVID-19,Surgery,St. Mary’s Clinic,Kathleen Fox,2024-04-04,2024-04-24,124.68,Yes,New Alexis,111/74,60
+801,Joshua Browning,69,Other,Cancer,Therapy,General Hospital,Sean Jones,2023-04-13,2023-04-15,7111.37,Yes,Sherryland,141/73,104
+802,Christina Delgado,33,Female,Hypertension,Therapy,Sunrise Hospital,Tracie Brady,2023-12-22,,5483.38,Yes,Jeremyfurt,157/87,80
+803,Alice Williams,23,Other,Obesity,Lifestyle Change,Sunrise Hospital,Kayla Christensen,2023-07-31,2023-08-06,4073.44,No,North Juliefort,129/84,66
+804,Nicole Smith,25,Female,Allergy,Therapy,City Hospital,Kelly Tapia,2024-05-14,2024-05-29,7474.95,Yes,Davisberg,158/62,78
+805,Barbara Lee,86,Other,Allergy,Therapy,City Hospital,Michael West,2024-04-09,2024-04-19,2510.77,Yes,New Justin,98/99,69
+806,Mark Lambert,75,Male,Flu,Observation,City Hospital,Garrett Gamble,2024-12-03,2024-12-12,206.87,Yes,Harrisfurt,95/93,78
+807,Terry Hart,61,Other,Flu,Medication,General Hospital,Megan Hill,2024-08-25,2024-09-09,9605.84,No,South Danielle,159/77,83
+808,Sarah Sharp,30,Male,Obesity,Medication,Sunrise Hospital,Samantha Cooper,2024-10-08,,9311.91,Yes,Carterport,153/90,86
+809,Anthony Stephens,11,Other,Migraine,Surgery,City Hospital,Lisa Ortiz,2023-03-11,,1529.74,Yes,South Jordan,113/72,55
+810,Amy Morrison,92,Male,Flu,Therapy,HealthCare Center,Meagan Thomas,2023-11-25,2023-11-28,7484.25,No,Rileybury,97/69,62
+811,Caleb Anderson,67,Female,Allergy,Therapy,Sunrise Hospital,Mark Miller,2024-12-24,2024-12-25,6634.89,No,Jonathanchester,96/60,75
+812,Ariel Howard,73,Other,COVID-19,Lifestyle Change,General Hospital,Michelle Novak,2024-03-12,2024-03-17,8405.71,No,New Gregory,116/82,56
+813,Vanessa Patterson,99,Female,Cancer,Lifestyle Change,City Hospital,David Villarreal,2024-09-20,2024-09-22,5946.97,No,Hendersonfort,104/97,100
+814,Aaron Mitchell,98,Other,Cancer,Observation,Sunrise Hospital,Amanda Flynn,2025-01-17,2025-02-01,6332.57,No,Gonzalezland,128/61,91
+815,Austin Ayers,14,Male,Heart Disease,Medication,City Hospital,Max Scott,2023-10-04,2023-10-16,3101.29,Yes,Christophermouth,137/64,98
+816,Paul Sharp,73,Male,Heart Disease,Lifestyle Change,General Hospital,Michael Andersen,2024-04-20,2024-05-09,641.48,No,Christopherland,155/69,90
+817,Tracy Robinson,39,Female,Flu,Surgery,General Hospital,Jessica Garza,2024-11-17,2024-12-06,149.45,Yes,South Tamaraview,118/98,69
+818,Matthew Clark,90,Other,Flu,Therapy,Sunrise Hospital,Kimberly Smith,2023-12-24,,8135.04,Yes,Vargasland,134/97,96
+819,Christine Ryan,100,Female,COVID-19,Surgery,Sunrise Hospital,Jillian Powell MD,2024-03-13,2024-03-30,8217.5,No,Johnsonmouth,145/75,65
+820,Alexander Walter,100,Other,Migraine,Observation,Sunrise Hospital,Diane Mcintyre,2023-03-31,2023-04-17,7243.72,Yes,New Aaronstad,140/78,55
+821,John Miller,50,Other,Heart Disease,Therapy,City Hospital,Jared Love,2023-02-28,,4506.59,No,Changtown,116/63,109
+822,Christopher Santos,15,Other,Obesity,Lifestyle Change,City Hospital,Joel Morris,2023-11-09,2023-11-15,8139.22,No,New Amandaview,106/76,108
+823,Mr. Joseph Neal,11,Female,Cancer,Observation,Sunrise Hospital,Renee Barnes,2024-07-02,,4160.19,Yes,Port Reneemouth,157/88,89
+824,Kathy Wright,26,Female,Diabetes,Lifestyle Change,General Hospital,Angela Perkins,2024-05-21,2024-06-03,8245.37,Yes,Gomeztown,111/99,68
+825,Tiffany Escobar,2,Other,Allergy,Observation,General Hospital,John Edwards,2024-06-19,2024-07-08,6799.73,No,East Billy,155/70,91
+826,Nathaniel Reed,26,Male,Hypertension,Medication,HealthCare Center,Kendra May,2024-08-27,2024-09-06,3553.9,Yes,Colemanmouth,113/84,61
+827,Elizabeth Burch,62,Other,COVID-19,Medication,General Hospital,Lawrence King,2024-09-13,2024-10-03,3421.61,Yes,Taylorland,119/98,109
+828,Brittany Cain,53,Other,Cancer,Surgery,General Hospital,Diane Smith,2023-03-05,2023-03-15,350.96,Yes,Trujilloville,146/81,58
+829,Ronald Stone,30,Male,Obesity,Medication,City Hospital,Tammy Reynolds,2024-07-17,2024-07-20,1144.81,No,Lake Matthew,118/64,52
+830,Brenda Stone,35,Other,Migraine,Lifestyle Change,Sunrise Hospital,Patricia Sullivan,2024-08-09,2024-08-15,5069.02,No,South Victoria,132/97,90
+831,Johnny Foley,21,Male,Flu,Observation,Sunrise Hospital,Gregory Molina,2023-03-20,,4845.03,No,Karenmouth,103/60,73
+832,Jeffrey Mitchell,8,Female,Migraine,Observation,Sunrise Hospital,Paul Rollins,2023-05-17,,3500.56,Yes,East Sharon,157/64,96
+833,Mark Cherry,14,Other,Obesity,Observation,General Hospital,David Gregory,2023-11-22,2023-11-28,4613.42,No,Lake Javierstad,123/95,87
+834,William Gentry,42,Other,COVID-19,Medication,Sunrise Hospital,Jose Soto,2023-08-08,,3061.91,Yes,Susanhaven,160/76,83
+835,Brett Brown,17,Other,Hypertension,Lifestyle Change,Sunrise Hospital,Jason Norman,2023-07-13,2023-07-25,3427.02,No,Moorechester,114/84,77
+836,Dustin Wang,68,Other,Migraine,Medication,Sunrise Hospital,Elizabeth Merritt,2023-04-09,2023-04-10,5570.68,No,Port Andrew,143/88,105
+837,Jeffery Ward,49,Male,Hypertension,Therapy,St. Mary’s Clinic,Lynn Byrd,2025-02-20,,2222.73,Yes,Garrisonland,107/64,105
+838,Krystal Mack DDS,5,Other,Obesity,Medication,General Hospital,Bradley Ferguson,2024-03-01,2024-03-06,1851.71,Yes,Bakerside,147/97,97
+839,Patricia Pace,28,Male,Asthma,Observation,General Hospital,Lucas Moreno,2023-10-26,2023-11-14,7468.66,Yes,Paulabury,111/64,108
+840,Richard Buchanan,75,Other,Flu,Medication,St. Mary’s Clinic,Amanda Brown,2023-05-07,2023-05-17,3666.65,Yes,South Angelaburgh,94/66,90
+841,Dillon Rogers,31,Female,Asthma,Lifestyle Change,St. Mary’s Clinic,Mr. David Porter,2023-08-08,2023-08-20,4837.09,No,West Miranda,155/78,94
+842,Phillip Bowman,9,Other,Allergy,Lifestyle Change,Sunrise Hospital,John Mitchell,2024-05-12,,7510.06,No,Mayerstad,150/79,50
+843,Andre Bowen,8,Other,COVID-19,Observation,St. Mary’s Clinic,Troy Gonzales,2025-02-06,2025-02-18,8799.65,No,Jenniferside,153/72,64
+844,Mrs. Anne Cook,37,Other,Flu,Medication,City Hospital,Shelly Gordon,2023-06-17,2023-06-24,7118.47,Yes,Rogersmouth,99/81,86
+845,Ryan Richardson,76,Female,Cancer,Medication,Sunrise Hospital,Brandon Davis,2023-05-17,2023-06-01,462.47,No,East Andreville,129/99,71
+846,Greg Davis,90,Female,Flu,Therapy,HealthCare Center,Blake Moore,2023-09-13,2023-10-03,3571.3,No,North Robert,129/72,90
+847,Jessica Brewer,69,Other,COVID-19,Medication,City Hospital,Jean Peters,2023-08-20,2023-08-25,379.46,Yes,New Sarahhaven,96/71,72
+848,Crystal Garcia,35,Female,Asthma,Medication,General Hospital,Michael Moore,2023-05-05,2023-05-15,1141.96,No,South Spencerburgh,117/93,109
+849,Andrea Berry,46,Other,Asthma,Surgery,HealthCare Center,Tammy Anthony,2024-07-19,2024-08-07,9356.5,Yes,Heathermouth,112/90,62
+850,Maria Wolf,86,Female,Allergy,Surgery,HealthCare Center,Thomas Miller,2023-09-05,2023-09-07,4215.27,Yes,Kennethfurt,100/97,65
+851,Todd Beck,69,Female,COVID-19,Observation,St. Mary’s Clinic,Stacey Vazquez,2024-04-08,2024-04-11,8736.28,No,Christinabury,97/100,56
+852,Tonya Nguyen,11,Other,Migraine,Observation,Sunrise Hospital,Bradley Bell,2024-08-28,2024-09-02,6504.52,No,Gordontown,102/64,85
+853,Christopher Andrews,99,Female,Heart Disease,Therapy,HealthCare Center,Lisa Simmons,2024-03-18,2024-03-23,1001.28,Yes,Port Philip,112/84,73
+854,Nicole Walters,75,Male,Heart Disease,Surgery,City Hospital,Angelica Singleton,2023-05-11,,1445.69,Yes,East Steven,141/78,74
+855,Patrick Mckenzie,50,Other,Heart Disease,Surgery,City Hospital,Jeremy Monroe,2023-12-30,2024-01-11,8695.61,No,Josephtown,100/78,101
+856,Gregory Vazquez,78,Female,Flu,Therapy,General Hospital,Michelle Davis,2023-04-26,,6064.53,No,Nelsonfurt,104/90,79
+857,Lori Day,28,Female,Diabetes,Lifestyle Change,St. Mary’s Clinic,Gregory Evans,2023-12-22,,8286.16,No,Troyport,157/84,55
+858,Steven Garcia,78,Male,Heart Disease,Therapy,City Hospital,Mr. Michael Espinoza,2024-03-28,,7378.83,No,South Heidi,139/69,92
+859,William Martin,99,Male,Diabetes,Surgery,City Hospital,Kim Mills,2023-06-18,2023-06-25,5967.6,Yes,Millerstad,95/96,85
+860,Kevin Scott,1,Female,Flu,Medication,Sunrise Hospital,Jennifer Owens,2024-08-15,,3685.3,Yes,Diazport,90/81,91
+861,Nicole House,1,Male,Allergy,Therapy,Sunrise Hospital,Mark Wolfe,2024-11-28,2024-12-16,6429.54,Yes,South Alyssa,100/78,91
+862,Sally Brown,12,Male,COVID-19,Medication,General Hospital,Julia Warren,2023-08-26,2023-09-11,7009.87,No,Janetview,139/77,79
+863,Leslie Villa,83,Other,Hypertension,Lifestyle Change,Sunrise Hospital,Michelle Bentley,2023-07-11,,5765.53,Yes,Chungmouth,156/86,54
+864,Robert Hanna,93,Female,Cancer,Lifestyle Change,City Hospital,Benjamin Vang,2023-09-02,2023-09-21,6105.12,No,New Lisaland,101/99,77
+865,Jessica Brandt,77,Female,Diabetes,Lifestyle Change,HealthCare Center,Justin Mosley,2024-01-31,2024-02-14,9022.78,Yes,West Jacqueline,118/76,90
+866,Jennifer Waters,34,Other,Flu,Medication,St. Mary’s Clinic,Deanna Allen,2024-04-26,2024-05-06,5870.9,No,Richardsonstad,135/97,109
+867,Tracy Zamora,89,Male,Asthma,Medication,General Hospital,Joshua Patrick,2023-02-28,2023-03-10,1533.87,Yes,Michaelland,156/85,66
+868,Adriana Thompson,99,Other,Asthma,Observation,HealthCare Center,Nancy Herman,2023-06-06,2023-06-20,585.46,No,Roseville,136/74,59
+869,Michael Walters,48,Other,Flu,Surgery,St. Mary’s Clinic,Eric Jacobson,2024-07-22,2024-08-02,5517.03,Yes,Port Kennethmouth,122/87,102
+870,William Edwards,99,Other,Obesity,Observation,City Hospital,Christopher Small,2023-06-04,2023-06-13,9263.0,No,North Jacquelineview,91/97,88
+871,Allison Mann,7,Female,Hypertension,Therapy,General Hospital,Timothy Hart,2024-11-17,,7919.62,Yes,North Daleland,97/93,100
+872,Christopher Richards,87,Other,Hypertension,Lifestyle Change,General Hospital,Aaron Mcfarland,2023-12-06,2023-12-12,9632.95,Yes,Wangton,91/88,98
+873,Richard Rodriguez,45,Male,Migraine,Medication,HealthCare Center,Jennifer Adams,2024-12-21,2024-12-25,2749.53,Yes,Jonesmouth,155/83,75
+874,Diana Anderson,29,Female,Cancer,Surgery,HealthCare Center,Alejandra Clark,2024-10-21,2024-11-03,7207.9,Yes,Rileyfort,95/91,51
+875,Amanda Wood,44,Female,Heart Disease,Therapy,St. Mary’s Clinic,Michael Mitchell,2024-03-23,2024-04-04,5556.48,Yes,Wrightfurt,102/99,61
+876,Michael Lang,25,Male,Heart Disease,Surgery,Sunrise Hospital,Chad Rodriguez,2023-06-07,2023-06-14,5950.04,Yes,Donhaven,92/92,75
+877,Joshua Kelly,44,Female,COVID-19,Medication,HealthCare Center,Daniel Fisher,2024-08-25,,7813.69,Yes,Martinstad,127/76,94
+878,Thomas Lewis,50,Other,Obesity,Therapy,St. Mary’s Clinic,Kelly White,2024-11-09,2024-11-13,9747.99,Yes,Lake Crystal,148/73,91
+879,Brandon Powell,77,Other,Flu,Lifestyle Change,City Hospital,Ruben Reynolds,2024-09-26,,2804.93,Yes,Lake David,147/87,75
+880,Eric Garcia MD,3,Female,COVID-19,Observation,City Hospital,Felicia Rice,2024-02-26,2024-02-27,9815.07,No,South Gregoryfort,102/94,53
+881,Mary Strickland MD,61,Other,Diabetes,Medication,City Hospital,Jasmine Lopez,2024-05-11,2024-05-28,8120.3,Yes,New Stevenside,111/79,63
+882,Benjamin Hill,75,Male,Hypertension,Medication,St. Mary’s Clinic,Kimberly Gonzalez,2024-08-31,2024-09-06,2091.34,Yes,Davidville,94/65,88
+883,James Pittman,43,Male,Diabetes,Therapy,HealthCare Center,Matthew Clark,2024-12-09,2024-12-23,3645.02,No,New Juliaton,126/99,60
+884,Heather Rowland,5,Male,Migraine,Medication,Sunrise Hospital,Brittany Reid,2023-05-07,2023-05-15,1438.59,Yes,Reedville,117/68,78
+885,Charles Wheeler,90,Female,Diabetes,Surgery,City Hospital,Michael Salas,2023-04-21,2023-04-27,7430.44,No,Davidhaven,108/80,93
+886,Eugene Daugherty,85,Male,Migraine,Lifestyle Change,HealthCare Center,James Williamson,2023-07-01,2023-07-18,4070.01,No,North Derekton,123/82,93
+887,Michael Gross,100,Other,Cancer,Therapy,St. Mary’s Clinic,Sheila Johnson PhD,2024-10-27,2024-11-04,7764.14,No,Kathrynberg,141/64,84
+888,James Miller,51,Male,Allergy,Surgery,Sunrise Hospital,Lisa Moody,2024-10-24,2024-10-30,381.34,No,Lake Natalie,146/94,95
+889,Stephen Gonzalez,53,Male,Cancer,Surgery,City Hospital,Jason Armstrong,2024-11-07,2024-11-11,950.0,No,East Kevinfort,131/79,57
+890,Joseph Martin,53,Male,Hypertension,Lifestyle Change,Sunrise Hospital,Alyssa Perry,2024-09-23,2024-10-12,6396.79,Yes,Thompsonfort,117/92,82
+891,Anthony Wilson,64,Female,Cancer,Observation,St. Mary’s Clinic,Richard Wade,2024-11-23,2024-11-25,8125.95,No,East Cassandraport,119/80,79
+892,Lauren Smith,18,Male,Obesity,Medication,HealthCare Center,Debra Parks,2024-04-17,2024-04-21,9493.63,Yes,Lake Christinaland,124/73,80
+893,Ryan Davis,42,Female,Flu,Medication,General Hospital,Stephanie Johnson,2023-08-22,2023-09-09,6371.33,Yes,North Pamelaville,142/62,77
+894,Debra Jacobs,1,Female,Heart Disease,Medication,St. Mary’s Clinic,Michelle Smith,2023-08-05,,8204.0,No,New Haley,145/62,59
+895,Candice Browning,82,Male,Allergy,Therapy,HealthCare Center,Aaron Shepherd,2023-07-21,2023-08-04,3322.94,No,East Kelly,136/69,77
+896,Amy Patel,14,Other,COVID-19,Medication,General Hospital,Latoya Young,2024-05-31,2024-06-17,1317.83,Yes,Coryview,138/67,70
+897,Xavier Diaz,10,Male,Hypertension,Medication,St. Mary’s Clinic,Michelle Lee MD,2024-07-06,2024-07-26,9391.43,No,East Josephtown,142/68,91
+898,Kimberly Sanchez,2,Male,Allergy,Lifestyle Change,Sunrise Hospital,Mary Martinez,2023-08-20,2023-08-25,4110.96,No,Wilsonmouth,140/91,107
+899,Christina Price,61,Other,Heart Disease,Medication,General Hospital,Raymond Dorsey,2024-10-31,2024-11-18,6773.71,No,Friedmanstad,136/71,78
+900,Molly Shea,21,Other,Hypertension,Medication,St. Mary’s Clinic,John Cook,2024-10-22,2024-10-24,7262.32,No,Cherylton,101/89,70
+901,Laura Collier,84,Female,Asthma,Lifestyle Change,St. Mary’s Clinic,Vanessa Landry,2024-08-07,2024-08-19,5996.03,Yes,Maryville,152/89,65
+902,Mr. Justin Archer,6,Other,Migraine,Medication,City Hospital,Thomas Jones,2023-09-06,2023-09-22,8519.42,No,Taylortown,110/68,89
+903,Ashley Gonzales,13,Female,Migraine,Lifestyle Change,St. Mary’s Clinic,Angela Smith,2024-12-15,2024-12-23,5860.91,Yes,Angelaborough,147/67,80
+904,Richard Cline,17,Other,Migraine,Lifestyle Change,Sunrise Hospital,April Johnson,2023-03-12,2023-03-25,1137.54,Yes,Johnsonbury,109/91,79
+905,Adriana Lin,21,Male,Diabetes,Lifestyle Change,City Hospital,Danielle Sandoval,2023-07-22,,166.56,Yes,Rosechester,128/63,87
+906,Steven Beasley,55,Other,COVID-19,Medication,St. Mary’s Clinic,Lauren Moore,2024-10-14,2024-10-29,8581.67,No,East Andrewburgh,136/71,57
+907,Laura Mitchell,63,Other,Cancer,Lifestyle Change,City Hospital,Gary Williams,2024-06-03,2024-06-10,540.59,No,Port Sheila,139/60,93
+908,Keith Bradshaw,93,Male,Diabetes,Lifestyle Change,St. Mary’s Clinic,Michelle Myers,2024-05-16,,3826.23,Yes,Port Angelashire,159/62,107
+909,Edward Anderson,87,Male,Migraine,Lifestyle Change,Sunrise Hospital,James Guzman,2024-07-25,2024-08-12,8713.61,Yes,East Rachaelland,135/68,93
+910,Christine Hayes,33,Female,Allergy,Lifestyle Change,St. Mary’s Clinic,Nicole Brandt,2023-08-10,2023-08-26,4047.44,Yes,West Amanda,98/95,63
+911,Michelle Bailey,13,Other,COVID-19,Lifestyle Change,Sunrise Hospital,Samantha Garcia,2023-09-30,2023-10-06,559.77,Yes,Sotoview,128/60,99
+912,Lynn Duncan,74,Male,Cancer,Surgery,HealthCare Center,Jason Gay,2023-11-26,2023-11-28,8702.08,No,Penaborough,134/72,54
+913,Melanie Mitchell,77,Female,COVID-19,Medication,St. Mary’s Clinic,Cody Maldonado,2024-02-04,2024-02-10,2266.09,No,Lake Daniel,150/93,98
+914,Melissa Anderson,24,Male,Allergy,Observation,General Hospital,Joseph Bowman,2023-03-13,2023-03-20,2709.8,No,Davisshire,148/84,81
+915,Jerry Chavez,98,Other,Diabetes,Lifestyle Change,Sunrise Hospital,Nancy Lopez,2023-08-30,,9877.02,No,Lake Franktown,138/72,88
+916,Jennifer Joyce,48,Other,Asthma,Surgery,General Hospital,Stacy Dillon,2024-07-01,2024-07-12,9749.49,Yes,Davidmouth,117/79,79
+917,Jose Scott,37,Male,Allergy,Medication,HealthCare Center,Kevin Mann,2024-03-21,2024-04-02,355.47,Yes,New Tracey,97/62,93
+918,Mark Johnson,29,Female,Flu,Observation,St. Mary’s Clinic,Robert Obrien,2024-09-26,2024-10-05,2845.79,Yes,North Johnview,154/96,53
+919,Robert Kim,43,Other,Diabetes,Surgery,General Hospital,Raymond Rose,2023-04-14,2023-05-03,4651.18,Yes,Brookemouth,125/61,106
+920,Ashley Brooks,9,Other,Diabetes,Surgery,General Hospital,Matthew Armstrong,2024-10-29,2024-11-06,9211.41,No,East Heidiburgh,104/99,101
+921,Heather Villegas,34,Female,Migraine,Medication,City Hospital,James Wall,2024-07-26,2024-07-31,9024.55,Yes,Pattersonmouth,149/92,95
+922,David Bennett,41,Other,Migraine,Therapy,Sunrise Hospital,Kevin Humphrey,2023-12-03,2023-12-08,2154.92,Yes,Jasonside,114/76,97
+923,Michael Friedman,23,Female,Diabetes,Lifestyle Change,St. Mary’s Clinic,Michael Jimenez,2024-05-21,,9383.08,Yes,East Kennethshire,120/65,96
+924,Jonathan Ruiz,37,Male,Diabetes,Lifestyle Change,Sunrise Hospital,Mr. Roy Krueger,2023-11-03,2023-11-10,8631.92,No,North Ellenmouth,119/95,76
+925,Diana Hill,53,Other,Diabetes,Therapy,City Hospital,Kelly Maldonado,2024-04-03,,9970.66,No,South Allenview,150/76,57
+926,Douglas Matthews,13,Other,Obesity,Surgery,City Hospital,Michael Baldwin,2025-01-15,2025-01-18,3330.85,No,Newmanburgh,144/92,70
+927,Catherine Kirby,65,Female,COVID-19,Medication,HealthCare Center,Michelle Smith,2024-11-12,2024-11-30,5002.22,No,Danieltown,127/86,62
+928,Evan Ward,94,Other,COVID-19,Medication,General Hospital,Chelsea Cline,2023-05-31,2023-06-05,784.4,No,South Kyle,109/85,90
+929,Michael Reyes MD,83,Other,Flu,Surgery,HealthCare Center,Leslie Pierce,2024-01-18,2024-01-20,6424.3,Yes,Joneshaven,115/85,108
+930,Nancy Robinson,12,Male,Heart Disease,Observation,City Hospital,Laura Cantrell,2023-06-19,2023-07-06,5429.81,No,Ramirezville,146/82,87
+931,Matthew Martin,14,Female,Cancer,Observation,General Hospital,Judy Sawyer,2024-12-12,2024-12-17,9116.52,Yes,Elizabethburgh,134/97,95
+932,Michael Phillips,14,Male,Migraine,Therapy,St. Mary’s Clinic,Mallory Hernandez,2023-09-21,2023-09-23,2349.24,Yes,New Jeffreyshire,160/89,82
+933,Kathy Perez,74,Female,COVID-19,Lifestyle Change,City Hospital,Katherine Martin,2024-06-08,2024-06-15,6868.84,No,South Matthew,101/89,73
+934,Wendy Johnson DDS,37,Female,Hypertension,Observation,City Hospital,Charles Collins,2024-04-13,2024-04-14,1777.1,Yes,Hillstad,130/88,93
+935,Jodi Jones,78,Male,Heart Disease,Lifestyle Change,Sunrise Hospital,Daniel Le,2024-05-29,,4797.01,Yes,Beanport,128/77,70
+936,Tiffany Mcdonald,86,Male,COVID-19,Medication,Sunrise Hospital,Todd Allison,2024-11-20,2024-12-07,4003.44,Yes,Andrewberg,159/68,51
+937,Sara Baldwin,2,Male,Diabetes,Lifestyle Change,General Hospital,Matthew Dean,2023-07-10,2023-07-13,4696.32,Yes,North Stephanie,98/93,68
+938,Andrew Ray,78,Other,Migraine,Therapy,HealthCare Center,Luis Cooper,2024-09-08,2024-09-09,8273.26,Yes,Baileytown,151/72,109
+939,Dawn Escobar,84,Male,Allergy,Lifestyle Change,St. Mary’s Clinic,Dustin Allen,2023-03-31,2023-04-04,4357.61,No,Kyleborough,116/96,91
+940,Daniel Morgan,73,Male,Asthma,Medication,HealthCare Center,Jeremiah Thompson,2023-09-10,2023-09-17,7187.62,Yes,North Laurachester,140/79,61
+941,David Adams,87,Female,Asthma,Lifestyle Change,St. Mary’s Clinic,James Reynolds,2024-09-19,2024-09-25,9723.85,Yes,South Nathan,143/85,97
+942,Briana Armstrong,1,Male,Allergy,Surgery,HealthCare Center,Patrick Brown,2024-11-01,2024-11-07,5371.14,No,Port Theresafort,155/97,78
+943,Tracy White,62,Female,Cancer,Medication,General Hospital,Nathan Kennedy,2024-07-15,,5725.89,No,West Emmastad,129/70,73
+944,Eric Johnson,73,Other,Migraine,Lifestyle Change,City Hospital,Jo Petersen,2024-07-21,2024-08-08,3209.65,Yes,West Sharonville,125/67,107
+945,Nicholas Sutton,99,Female,Flu,Surgery,General Hospital,Kevin Reed,2025-01-12,2025-01-19,3348.21,No,Velasquezview,137/84,61
+946,Jeffrey Williams,42,Male,Allergy,Medication,Sunrise Hospital,Matthew Roberts,2023-06-14,2023-06-18,9074.22,Yes,New Andrew,125/69,102
+947,Tracey Robinson,64,Female,Allergy,Lifestyle Change,City Hospital,James Wilson,2023-09-09,2023-09-17,2319.94,No,Mariabury,101/66,109
+948,Robert Gardner,91,Female,Heart Disease,Lifestyle Change,St. Mary’s Clinic,Dennis Lloyd,2023-08-15,2023-08-26,7972.2,Yes,South Raymond,114/90,53
+949,Zachary Ramirez,92,Female,Migraine,Therapy,HealthCare Center,Diane Patterson,2023-07-05,2023-07-17,9257.81,Yes,New Samantha,138/79,64
+950,Charles Green,80,Other,COVID-19,Lifestyle Change,Sunrise Hospital,Dr. Sophia Sellers,2023-03-18,,6353.41,No,Morrisonville,105/80,80
+951,Brian Hunter,42,Male,Diabetes,Observation,HealthCare Center,Kayla Potter,2025-01-13,2025-01-16,7510.95,No,West Davidview,146/70,79
+952,Regina Dunlap,85,Female,Flu,Surgery,City Hospital,Glenn Buchanan,2023-04-20,2023-05-04,6808.93,No,Jerryhaven,107/95,87
+953,Dylan Sanders,71,Male,Migraine,Observation,Sunrise Hospital,Luis Hendricks,2024-08-26,2024-09-02,1188.09,Yes,Friedmanberg,152/66,84
+954,Lisa Bishop,29,Other,Allergy,Surgery,City Hospital,Gary Russo,2024-04-01,,498.12,Yes,Boydmouth,92/98,108
+955,Angela Swanson,28,Male,Hypertension,Medication,Sunrise Hospital,Destiny Brown,2023-10-29,2023-11-09,3360.92,No,Whiteland,114/63,70
+956,Nicole Ross,92,Other,Migraine,Lifestyle Change,HealthCare Center,Thomas Ruiz,2023-08-15,2023-08-25,3338.7,No,Willisside,152/62,59
+957,Olivia Hudson,83,Male,Hypertension,Lifestyle Change,St. Mary’s Clinic,Regina Kline,2023-11-29,2023-12-02,3829.91,No,Lake Brenda,131/73,79
+958,Laurie Davis,31,Female,Obesity,Observation,St. Mary’s Clinic,Raymond Howard,2024-04-09,2024-04-16,6191.04,Yes,Snyderville,130/77,81
+959,Linda Morris,27,Female,Asthma,Lifestyle Change,City Hospital,Jessica Potts,2024-09-01,2024-09-03,5107.96,No,Whitneymouth,116/62,82
+960,Erica Tucker,83,Other,Heart Disease,Medication,St. Mary’s Clinic,Stephanie Yang,2024-06-01,2024-06-12,3201.89,No,Jameston,91/81,88
+961,Diamond Thomas,38,Male,Migraine,Observation,HealthCare Center,Nicholas Combs,2024-01-30,2024-02-08,3601.84,No,South Suzanne,147/75,83
+962,Kevin Hernandez,36,Female,Asthma,Medication,General Hospital,Stephen Park,2023-04-20,2023-04-25,2095.17,No,West Christopherberg,108/76,50
+963,Miranda Acosta,91,Male,Migraine,Surgery,HealthCare Center,Eric Cox MD,2023-10-23,2023-11-02,9886.67,Yes,Thompsonmouth,124/81,69
+964,Danielle Dixon,49,Female,Flu,Lifestyle Change,Sunrise Hospital,Angela Rubio MD,2023-06-15,2023-06-17,1709.4,No,Amandashire,102/93,87
+965,Joe Lopez,29,Other,Allergy,Observation,HealthCare Center,Taylor Berry,2024-02-22,2024-02-24,8751.79,No,South Michael,96/78,100
+966,Preston Roberts,35,Male,Diabetes,Observation,HealthCare Center,Patty Mccormick,2024-12-09,2024-12-28,2571.36,No,Michellehaven,113/66,86
+967,Dawn Mcgrath,78,Female,COVID-19,Therapy,HealthCare Center,Marissa Ford,2023-10-29,2023-11-01,9592.48,Yes,West Michael,152/74,78
+968,Matthew Sanchez Jr.,72,Male,Asthma,Observation,Sunrise Hospital,Christopher Bailey,2023-10-08,2023-10-25,1525.91,No,Zimmermanview,105/85,93
+969,Crystal Simpson,81,Other,Asthma,Lifestyle Change,Sunrise Hospital,Monica Hart,2023-10-30,2023-11-16,8483.19,No,West Kaylastad,98/64,51
+970,Jacob Brown,78,Other,Flu,Surgery,St. Mary’s Clinic,Ana Mahoney,2024-02-07,,7273.28,Yes,Bowenmouth,117/81,97
+971,Lisa Nunez,59,Other,Flu,Surgery,General Hospital,Daniel Grant,2023-05-13,,5641.17,Yes,Stephanieland,92/80,78
+972,Robert Alexander,15,Female,COVID-19,Lifestyle Change,HealthCare Center,Tami Rios,2023-05-21,,5670.18,Yes,Coxborough,94/97,98
+973,Donald Glenn PhD,67,Female,Migraine,Medication,St. Mary’s Clinic,Jay King,2024-11-04,2024-11-23,3535.52,No,East Mariaborough,144/79,105
+974,Mary Clark,100,Other,Flu,Therapy,General Hospital,Scott Cook,2024-05-14,2024-05-29,1749.0,No,Mendezview,115/64,87
+975,Adam Barnett,2,Other,Migraine,Therapy,Sunrise Hospital,Beth Clark,2024-09-21,,8934.83,Yes,Leefort,97/63,89
+976,Tony Combs,89,Female,Cancer,Lifestyle Change,Sunrise Hospital,Heidi Herrera,2024-10-02,2024-10-20,1002.52,No,Amandastad,115/64,76
+977,Meagan Knight,8,Other,Hypertension,Medication,St. Mary’s Clinic,Tammy King,2024-05-14,2024-05-31,2963.43,Yes,Lopezmouth,118/76,110
+978,Megan Murray,10,Other,Migraine,Medication,HealthCare Center,Tracy Riddle,2024-11-15,,7396.4,No,East Jessicastad,131/79,82
+979,George Buckley,83,Female,Asthma,Lifestyle Change,Sunrise Hospital,Jack Robbins,2024-06-04,2024-06-07,6967.97,Yes,Sandratown,135/95,68
+980,Dana Foster,52,Male,Asthma,Surgery,St. Mary’s Clinic,Edward Lopez,2025-02-08,2025-02-15,2528.57,No,New Josephbury,143/71,83
+981,Shelly Lopez,8,Male,Asthma,Medication,St. Mary’s Clinic,Laura Smith,2024-03-26,2024-04-13,5971.9,Yes,West Antonioport,128/84,56
+982,Anthony Carroll,52,Male,Obesity,Observation,St. Mary’s Clinic,Kathryn Morgan,2024-10-16,2024-11-01,1068.68,Yes,East Kennethville,117/92,107
+983,Molly Gross,44,Female,Flu,Surgery,HealthCare Center,Robin Harrington,2024-12-29,2025-01-17,4389.03,No,Juarezstad,126/100,64
+984,Todd Pearson,90,Other,Cancer,Surgery,City Hospital,Ryan Terrell,2025-02-06,2025-02-13,9669.08,Yes,Harrisburgh,115/97,99
+985,Timothy Clayton,6,Other,COVID-19,Medication,St. Mary’s Clinic,Cindy Mcgee,2023-06-10,2023-06-16,6581.45,No,Tylerfort,111/62,98
+986,Jeff Smith,3,Female,Flu,Therapy,City Hospital,Sarah Yoder,2023-07-03,2023-07-08,3669.75,Yes,Lake Henrychester,114/61,69
+987,Randy Delgado,84,Female,Heart Disease,Observation,City Hospital,Miguel Ford,2024-04-05,2024-04-14,2012.55,No,Port Donnaville,113/61,50
+988,Ronald Simmons,25,Other,Diabetes,Medication,HealthCare Center,Brent Powell,2023-03-17,2023-04-03,2384.43,Yes,Salazarfurt,94/93,55
+989,Gregory Lynn,37,Other,COVID-19,Surgery,City Hospital,Ross Collins PhD,2023-04-01,2023-04-14,5596.52,No,West Joy,154/77,91
+990,Allison Collins,33,Other,Hypertension,Lifestyle Change,City Hospital,Melissa Kelly,2023-04-20,2023-05-07,9838.05,No,East Stephanie,150/72,66
+991,Jordan Wilkinson,15,Female,Flu,Observation,Sunrise Hospital,Jeffery Smith,2023-07-25,2023-08-08,3281.51,Yes,New Hunter,121/64,74
+992,Ryan Ball,29,Other,Allergy,Therapy,St. Mary’s Clinic,Ryan Tran,2025-02-01,2025-02-13,9495.31,No,Bauerville,96/77,88
+993,Sarah Blevins,43,Male,Diabetes,Medication,St. Mary’s Clinic,James Elliott,2024-08-29,2024-09-10,9886.27,Yes,East Daniel,120/85,83
+994,Patricia Nelson,72,Other,Flu,Medication,General Hospital,Suzanne Hanson,2024-12-31,2025-01-15,8963.67,No,Port Ruthfort,132/81,108
+995,Roger Spence,89,Other,Cancer,Observation,General Hospital,Jon Roberts,2024-09-14,2024-09-22,9329.11,Yes,East Catherineland,155/63,50
+996,Bryan Thompson,93,Other,Allergy,Therapy,HealthCare Center,Lorraine Owen,2023-07-04,2023-07-23,9708.02,Yes,Sarahmouth,114/70,72
+997,Gene Taylor,70,Other,Asthma,Medication,Sunrise Hospital,Suzanne Sanford,2024-12-28,2025-01-10,8251.51,Yes,West Kimberly,143/77,104
+998,Gabriel Young,55,Other,Heart Disease,Medication,HealthCare Center,Paul Salazar,2023-03-12,2023-03-19,7381.5,No,Carolynshire,115/85,80
+999,Brenda Rice,77,Other,Obesity,Lifestyle Change,City Hospital,Randy Sanchez PhD,2024-01-17,2024-02-04,3222.15,Yes,Cochranshire,153/60,98
+1000,Justin Orozco,24,Male,Flu,Surgery,HealthCare Center,Nicholas Turner,2025-01-14,2025-01-20,6183.68,Yes,Lake Alyssabury,152/99,79
